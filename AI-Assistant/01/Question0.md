@@ -6,6 +6,7 @@ now there is new AI show up, we want to test and understand this new AI's abilit
 2. 判斷 judegment  
 3. 創意寫作 crative writing
 4. 隱喻 metaphor
+
 Moreover, we want to see AI can give a deep answer. That is, for each one, you give a long question with deep and hard, at least 60 words to descirbe each one.
 further, you need to provide me your answer that i will directly verify it.
 
