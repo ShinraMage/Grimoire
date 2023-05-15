@@ -1,7 +1,6 @@
-叫AI提問
+# 叫AI提問
 
 ## posetmage
-
 now there is new AI show up, we want to test and understand this new AI's ability with 4 direction. all of them are offline, don't use info need to surf the net
 1. 資料考證 information validation    
 2. 判斷 judegment  
@@ -30,9 +29,7 @@ As she navigates the complexities of a society unprepared for her voice, Mara mu
   * Question: Create a metaphor that represents the delicate balance between technological progress and its potential negative impacts on society, using the concept of a tightrope walker performing on a high wire.
   * Answer: Technological progress is like a tightrope walker delicately balancing on a high wire, suspended between the pillars of innovation and destruction. With each step forward, the tightrope walker risks losing balance and plummeting into the abyss below, representing the potential negative consequences of unchecked advancement. However, when carefully navigating the high wire with precision and caution, the tightrope walker – akin to responsible technological progress – can create a spectacle of wonder and achievement. Each step forward on the wire is a potential for innovation, improving lives and pushing boundaries. But a single misstep could lead to downfall, symbolizing the disruptive effects of technology, such as privacy concerns, labor displacement, or the widening digital divide. Therefore, just as the tightrope walker must maintain a careful balance to prevent disaster, so must society approach technological progress with a keen awareness of its potential impacts, both positive and negative.
 
-
 ## GPT-3
-  
 now there is new AI show up, we want to test and understand this new AI's ability with 4 direction. all of them are offline, don't use info need to surf the net 1. 資料考證 information validation 2. 判斷 judegment 3. 創意寫作 crative writing 4. 隱喻 metaphor Moreover, we want to see AI can give a deep answer. That is, for each one, you give a long question with deep and hard, at least 60 words to descirbe each one. further, you need to provide me your answer that i will directly verify it. remember, all the test are offline, I need to directly ask AI and see the result directly. I expect you will give me 4 long and deep questions and long answer for each one
 ChatGPT
 1.	資料考證 information validation
