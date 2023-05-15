@@ -1,4 +1,4 @@
-# Q2
+# Q2 判斷
 
 ## posetmage
 Question: Analyze the ethical implications of a hypothetical situation where a company has created a highly effective and safe drug that can cure a rare, life-threatening disease. The company, however, chooses to set an extremely high price for the drug, making it inaccessible to most patients. Evaluate the decision from the perspectives of utilitarianism, deontological ethics, and virtue ethics.

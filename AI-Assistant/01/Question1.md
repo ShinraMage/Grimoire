@@ -1,4 +1,4 @@
-# Q1
+# Q1 資料考證
 
 ## posetmage
 1. Considering the impact of the Industrial Revolution on the socio-economic landscape, the environment, and labor rights during the 18th and 19th centuries, what were the major technological advancements, their inventors, and the subsequent consequences that shaped the modern world, without access to real-time information?
