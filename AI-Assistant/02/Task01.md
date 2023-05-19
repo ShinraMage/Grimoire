@@ -1,13 +1,42 @@
 # 遊戲編劇AI神助手02 HW-1
 
-比較對象：
-  * GPT-4
-  * GPT-3.5
-  * Bard
+```markmap
+# 西格爾戰記
 
-## prompt & outcome
-* [提問](./Question0.md)
-* [資料考證](./Question1.md)
-* [判斷](./Question2.md)
-* [創意寫作](./Question3.md)
-* [隱喻](./Question4.md)
+## 緣由
+- 想要套用Entropy 機制
+## 類型
+* TA
+  * 喜歡策略遊戲的玩家
+* SLG
+  * 回合制
+* 遊戲平台
+  * PC
+  * 移動端
+* Tools
+  * Unity
+
+## 風格
+* 視覺
+  * JRPG萌系風格 ex:recettear
+  * 2頭身Q版
+* 類型
+  * 奇幻
+* 遊玩方式
+  * 特殊機制
+    * 多種族在附近會造成行動懲罰
+  * 六角棋盤
+
+## 背景設定
+* 世界觀
+  * 劍與魔法
+* Map
+  * (遊戲教學)打獵 - 森林
+  * 精靈矮人戰爭 - 峽谷 
+  * 最終BOSS戰 - 地洞
+
+```
+
+
+
+
