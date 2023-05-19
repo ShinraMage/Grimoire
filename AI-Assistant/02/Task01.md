@@ -1,7 +1,7 @@
 # 遊戲編劇AI神助手02 HW-1
 
 備註：餵AI我的[設定集](https://posetmage.com/SettingBook/)  
-備註：還有餵[發想](https://hackmd.io/@posetmage/B18gw5Bbi?both)  
+備註：還有餵[發想心智圖](https://hackmd.io/@posetmage/B18gw5Bbi?both)  
 
 ## PosetMage
 備註：直接餵[設定集CH1-Entropy](https://posetmage.com/SettingBook/Setting/Ch1/Entropy/)
@@ -43,7 +43,7 @@ Sure, based on your current framework and my previous suggestions, here's a new 
 
 This design focuses more on puzzle and strategy elements, aiming to provide a cerebral and engaging gameplay experience. Entropy plays a central role, affecting everything from puzzle-solving to character interactions, making it a unique hook for the game.
 
-備註：將格式文字轉圖表使用MarkMap轉成[輸出.html](./output.html)  
+備註：將格式文字轉圖表使用MarkMap輸出html如下
 <iframe src="./output.html" width="100%" height="500px"></iframe>
 
 ## MarkMap
