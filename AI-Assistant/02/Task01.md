@@ -30,7 +30,7 @@ Applying the entropy world setting: The concept can be applied in numerous ways 
 ## PosetMage
 here is my markmap
 
-備註：餵給他[發想](https://hackmd.io/@posetmage/B18gw5Bbi?both)  
+備註：餵給他[發想心智圖](https://hackmd.io/@posetmage/B18gw5Bbi?both)  
 
 you do brainstorming based on this format, but add more innovation concetps to crate a new game concept.
 don't follow my old design. for example, you metioned puzzles game i think that a good beginning. and you brainstorming a new game
