@@ -1,42 +1,54 @@
 # 遊戲編劇AI神助手02 HW-1
 
-```markmap
-# 西格爾戰記
-
-## 緣由
-- 想要套用Entropy 機制
-## 類型
-* TA
-  * 喜歡策略遊戲的玩家
-* SLG
-  * 回合制
-* 遊戲平台
-  * PC
-  * 移動端
-* Tools
-  * Unity
-
-## 風格
-* 視覺
-  * JRPG萌系風格 ex:recettear
-  * 2頭身Q版
-* 類型
-  * 奇幻
-* 遊玩方式
-  * 特殊機制
-    * 多種族在附近會造成行動懲罰
-  * 六角棋盤
-
-## 背景設定
-* 世界觀
-  * 劍與魔法
-* Map
-  * (遊戲教學)打獵 - 森林
-  * 精靈矮人戰爭 - 峽谷 
-  * 最終BOSS戰 - 地洞
-
-```
+---
+markmap:
+  colorFreezeLevel: 2
+---
 
 
+# Entropy Chronicles
+
+## Overview
+- A blend of Puzzle-RPG-SLG mechanics utilizing the entropy system
+
+## Target Audience
+- Players who enjoy strategy and puzzle-solving elements
+- Fans of magical realism and fantasy worlds
+
+## Game Platforms
+- PC
+- Mobile
+- Consoles
+
+## Tools
+- Unity for flexibility across platforms
+
+## Art Style
+- Visuals
+  - Stylized, semi-realistic art reminiscent of titles like Octopath Traveler
+- Genre
+  - Magical Realism Fantasy
+
+## Gameplay
+- Core Mechanics
+  - Entropy-based puzzle mechanics intertwined with RPG elements
+  - The player must manage and manipulate entropy to solve puzzles, cast spells, and alter the environment
+- Gameplay Format
+  - A hexagonal grid system for exploration and battles
+- Characters and Races
+  - Various playable characters of different races, each with unique abilities impacting entropy
+  - Presence of different races in the party or nearby could affect entropy dynamics
+- Player Perspective
+  - Third-person isometric view, allowing a complete view of the hex-grid and the puzzle elements
+
+## Story and Setting
+- World
+  - A magical realm where entropy is the core natural and magical principle
+- Maps and Levels
+  - Puzzle-based dungeons in various settings (e.g., Enchanted Forest, Dwarven Mines, Elven Castles, Interdimensional Rifts)
+  - The final challenge at the heart of the universe where entropy is most concentrated
+- Plot
+  - The player's party must restore the balance of entropy in the universe to prevent its untimely end, facing various entropy-related challenges and adversaries along the way
+  - Each party member has personal quests related to entropy management (e.g., an elf seeking to slow the entropy of his long-lived race, a mage trying to perfect entropy-based spells)
 
 
