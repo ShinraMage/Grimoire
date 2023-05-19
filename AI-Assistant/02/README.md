@@ -1,6 +1,6 @@
 # 遊戲編劇AI神助手 HW 01
 
-基本文件：[PosetMage設定集](posetmage.com/SettingBook)
+基本文件：[PosetMage設定集](https://posetmage.com/SettingBook)
 
 ## prompt & outcome
 * [遊戲發想](./Task01.md)
