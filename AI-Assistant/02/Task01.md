@@ -46,4 +46,6 @@ This design focuses more on puzzle and strategy elements, aiming to provide a ce
 備註：將格式文字轉圖表使用MarkMap轉成[輸出.html](./output.html)
 
 ## MarkMap
-使用VSCode插件![](./markmap.png)
+參考[MarkMap](https://markmap.js.org/)
+
+我是使用VSCode的插件版本MarkMap 詳細請[參考此](./Others.md)
