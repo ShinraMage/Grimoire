@@ -1,98 +1,47 @@
-# 遊戲編劇AI神助手02 HW-2
+# 遊戲編劇AI神助手02 HW-3
 
+人物設計
+
+備註：這邊我是直接貼 https://posetmage.com/SettingBook/Setting/04/Design/
 
 ## PosetMage
-use python convert markdown mindmap to image  
-I need it automatically convert.  
-you give me exmaple of input.md  
-and give my python code to convert to out.png  
+I will give you several characters cards that you need to learn my format,
+you just answer me "roger it"
+here is my first data:
+
+貼上Medina內容
 
 ## GPT4
+Roger it.
 
-Unfortunately, I cannot convert your mindmap to an image directly here. However, I can guide you on how you might do this using Python. For this, you will need to use the networkx and matplotlib libraries to create the graph, and then save it as an image.  
-The following is an example of creating a simple graph in Python using networkx:  
-pythonCopy code  
-```
-import matplotlib.pyplot as plt
-import networkx as nx
-
-# Create a new graph
-G = nx.Graph()
-
-# Add nodes to the graph
-G.add_node("Node 1")
-G.add_node("Node 2")
-
-# Add edge between the nodes
-G.add_edge("Node 1", "Node 2")
-
-# Draw the graph
-nx.draw(G, with_labels=True)
-
-# Save the graph as an image
-plt.savefig("graph.png")
-```
-In this example, we create a graph G, add two nodes to it ("Node 1" and "Node 2"), add an edge between the nodes, and then draw the graph. The nx.draw function will automatically layout the nodes and edges in a nice way for most small to medium-sized graphs. Lastly, we use plt.savefig to save the image.  
-This example is quite simple. In a real mind map, you would likely have many more nodes and edges, and you might want to customize the look of the nodes and edges. All of this is possible with networkx and matplotlib.  
-Please note that this will be a simple rendering and may not suit all complex mind map requirements. For more complex visualizations, you might want to consider using dedicated graph visualization tools.  
-  
 ## PosetMage
-here is the problem:  
-the output is one node at center and 7 subnodes all link to center.  
-I think it is wrong.   
+貼上Sienna內容
 
 ## GPT4
-You're correct. My apologies for the oversight. The issue here is that the beautifulsoup library does not maintain the nested structure of the headers (h1, h2, h3, etc.) in the Markdown text.  
-A more effective approach could be to parse the Markdown text directly without converting it to HTML. This way, we can preserve the nested structure of the headers by taking their levels into account (h1 being level 1, h2 being level 2, etc.).  
-Here is an updated version of the script:  
-pythonCopy code  
+Roger it.
 
-```
-import networkx as nx
-import matplotlib.pyplot as plt
+## PosetMage
+貼上Cole內容
 
-# Step 1: Parse markdown
-with open("input.md", "r") as f:
-    lines = f.read().splitlines()
+## GPT4
+Roger it.
 
-# Step 2: Create graph from parsed markdown
-G = nx.DiGraph()
-stack = []
+## PosetMage
+ok, finished.  
+you learned my style.  
 
-for line in lines:
-    level = line.count('#')
-    label = line.replace('#', '').strip()
-    node = (level, label)
-    G.add_node(node)
+help me create 3 roles,  
+one is half-orc man,  
+one is goblin  
+one is spirit  
 
-    while stack and stack[-1][0] >= level:
-        stack.pop()
-    if stack:
-        G.add_edge(stack[-1], node)
-    stack.append(node)
-
-# Step 3: Generate an image of the graph
-plt.figure(figsize=(10,10))
-pos = nx.spring_layout(G, seed=42)  # positions for all nodes
-
-# nodes
-nx.draw_networkx_nodes(G, pos, node_size=500)
-
-# edges
-nx.draw_networkx_edges(G, pos, width=1)
-
-# labels
-labels = {node: node[1] for node in G.nodes}
-nx.draw_networkx_labels(G, pos, labels=labels, font_size=10, font_family='sans-serif')
-
-plt.axis('off')
-plt.savefig("out.png")  # save as png
-plt.show()  # display
-
-```
-
-Now, your markdown will be interpreted in this way:  
-•	Every header is a node. The level of the header (the number of # characters) represents the depth in the mindmap.  
-•	A header is connected to the last header of one level above. For example, a level-2 header is connected to the last level-1 header that came before it.  
-This should give you a more accurate representation of the mind map.  
+## GPT4
+Absolutely, here are the three characters based on your format:  
+角色設計  
+1.	Grumm (男)  
+半獸人族 身高190cm 體重120kg 以獵人及採集者的身分生活，對於樹林和動物有著極高的理解。 長著粗壯的手臂與壯碩的身體，擅長用矛戰鬥。總是佩戴著由兽皮制作的披風和背包，裡面裝著狩獵和採集所需的工具。 全身都是綠色的刺青，表現出他的部落背景。 長著獸人特有的兩根獠牙，短髮。 個性單純，對待朋友很忠誠，但對陌生人保持警惕。  
+2.	Skrik (男)  
+哥布林族 身高100cm 體重30kg 以盜賊的身分生活，擅長隱身和開鎖技巧。 總是穿著深色的衣服，易於隱身。隨身攜帶一把短劍和一套竊賊工具。 因為住在地下，對光線很敏感，所以戴著夜視眼鏡。 頭上的短髮，綠色皮膚和大耳朵都是哥布林族的特點。 個性機警且狡猾，總是在尋找下一個獵物。  
+3.	Elysia (女)  
+靈魂族 高度不定 重量不定 以法师的身份存在，擅長使用冰與水相關的法術。 身體呈現半透明的狀態，常變換的外型如同水波一般。 因為是靈魂，所以沒有實體的武器，但可以將自己的能量聚焦成攻擊或者防禦的工具。 無法配戴具體的裝備，但身體周圍總是環繞著水珠或霜花。 個性冷靜且淡然，對物質世界的事物缺乏興趣，但對知識和神秘的事物充滿好奇。  
   

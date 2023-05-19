@@ -4,5 +4,4 @@
 
 ## prompt & outcome
 * [遊戲發想](./Task01.md)
-* [劇本方向](./Task02.md)
-* [人物設計](./Task03.md)
+* [人物設計](./Task02.md)

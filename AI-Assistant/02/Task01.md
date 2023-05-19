@@ -1,10 +1,10 @@
 # 遊戲編劇AI神助手02 HW-1
 
-備註：餵AI我的設定集 https://posetmage.com/SettingBook/  
-備註：還有餵發想 https://hackmd.io/@posetmage/B18gw5Bbi/edit  
+備註：餵AI我的[設定集](https://posetmage.com/SettingBook/)  
+備註：還有餵[發想](https://hackmd.io/@posetmage/B18gw5Bbi/edit)  
 
 ## PosetMage
-備註：直接餵 https://posetmage.com/SettingBook/Setting/Ch1/Entropy/
+備註：直接餵[設定集CH1-Entropy](https://posetmage.com/SettingBook/Setting/Ch1/Entropy/)
 
 ## GPT4
 
@@ -13,9 +13,8 @@
 讓我們看看下一篇文章：某商人的第一次占卜。希望能夠以同樣生動有趣的方式繼續談論物理學。
 
 ## PosetMage
-備註：餵了前半段 https://posetmage.com/SettingBook/Setting/Ch1/Divination/
-
-然後補上結尾
+備註：餵了[設定集CH1-Divination](https://posetmage.com/SettingBook/Setting/Ch1/Divination/)前半段
+(然後補上下面句子)
 
 do you understand all my concepts of my words?  
 what entropy act important in the world?  
@@ -31,7 +30,7 @@ Applying the entropy world setting: The concept can be applied in numerous ways 
 ## PosetMage
 here is my markmap
 
-餵給他 https://hackmd.io/-2-wDFsvQNeX_4lnIKlUfw
+備註：餵給他[發想](https://hackmd.io/@posetmage/B18gw5Bbi/edit)  
 
 you do brainstorming based on this format, but add more innovation concetps to crate a new game concept.
 don't follow my old design. for example, you metioned puzzles game i think that a good beginning. and you brainstorming a new game
@@ -40,8 +39,11 @@ don't follow my old design. for example, you metioned puzzles game i think that 
 
 Sure, based on your current framework and my previous suggestions, here's a new game concept centered around the unique system of entropy:
 
-備註：因為內容太多 我直接貼到[輸出.html](./output.html)
-備註：將文字轉圖表使用[圖表輸出](./Task02.md)
+備註：因為內容太多 我直接貼到[原始](./markmap.mm.md) 
 
 This design focuses more on puzzle and strategy elements, aiming to provide a cerebral and engaging gameplay experience. Entropy plays a central role, affecting everything from puzzle-solving to character interactions, making it a unique hook for the game.
 
+備註：將格式文字轉圖表使用MarkMap轉成[輸出.html](./output.html)
+
+## MarkMap
+使用VSCode插件![](./markmap.png)
