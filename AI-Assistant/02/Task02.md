@@ -2,26 +2,26 @@
 
 人物設計
 
-備註：這邊我是直接貼 https://posetmage.com/SettingBook/Setting/04/Design/
+備註：這邊我是直接貼設定集的[人物設計](https://posetmage.com/SettingBook/Setting/04/Design/)
 
 ## PosetMage
 I will give you several characters cards that you need to learn my format,
 you just answer me "roger it"
 here is my first data:
 
-貼上Medina內容
+備註：貼上Medina內容
 
 ## GPT4
 Roger it.
 
 ## PosetMage
-貼上Sienna內容
+備註：貼上Sienna內容
 
 ## GPT4
 Roger it.
 
 ## PosetMage
-貼上Cole內容
+備註：貼上Cole內容
 
 ## GPT4
 Roger it.
