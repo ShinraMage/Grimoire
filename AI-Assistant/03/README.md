@@ -39,3 +39,10 @@ lowres, text, error, missing fingers, extra digit, fewer digits, cropped, worst 
 
 
 ## Result
+
+###　Final Select:
+![](./Select.png)
+
+### others
+![](./grid1.png)  
+![](./grid2.png)  
