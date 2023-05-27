@@ -33,6 +33,6 @@ lowres, text, error, missing fingers, extra digit, fewer digits, cropped, worst 
 ### Final Select
 ![](./Select.png)
 
-### others
+### candidate
 ![](./grid1.png)  
 ![](./grid2.png)  
