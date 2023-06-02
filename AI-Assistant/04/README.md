@@ -1,8 +1,8 @@
 # 遊戲編劇AI神助手 HW 04
 
 ## Outcome
-* [Result](./output.html)
-  * [原始檔案](./input.md)
+* [Result](./hw4.html)
+  * [原始檔案](./hw4.md)
 * [Chat History](./chat.html)
 
 ## Convert Tool
