@@ -1,32 +1,33 @@
-{{Game Title}}
+# PikaGo
+## Game Title
 PikaGo
-{{Game Type}}
+## Game Type
 CRPG
-{{Introduction}}
+## Introduction
 how to get a pika
-{{Abstract}}
+## Abstract
 A kind of crpg game
-{{System}}
+## System
 * system1 with detail
 * dlc system
 * shop
-{{Selling Points}}
+## Selling Points
 * easy to play
 * not large 
-{{TA}}
+## TA
 * girls like play
 * want to play cute
-{{World}}
+## World
 fantasy world with many pika
-{{Platforms}}
+## Platforms
 * PC
 * mobile
 * console
-{{Concept Art}}
+## Concept Art
 ![](url_aaa)
-{{Game Image 1}}
+## Game Image 1
 ![](url_bbb)
-{{Game Image 2}}
+## Game Image 2
 ![](url_ccc)
-{{Play Demo}}
+## Play Demo
 drag a ball to throw on pika
