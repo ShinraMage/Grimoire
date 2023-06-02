@@ -18,14 +18,7 @@ for line in lines:
 
     output_lines.append(parsed_line)
 
-with open(output_file, "w") as txt_file:
-    txt_file.write("\n".join(output_lines))
-
-
-
-# Parse input.txt and store tags and their corresponding content in a dictionary
-with open('input.txt', 'r', encoding='utf-8') as input_file:
-    input_text = input_file.read()
+input_text = ' '.join(output_lines)  # Convert list to a single string
 
 pattern = r'\{\{(.*?)\}\}(.*?)(?=\{\{(.*?)\}\}|$)'
 matches = re.findall(pattern, input_text, re.DOTALL)
