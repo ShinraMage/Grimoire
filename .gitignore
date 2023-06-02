@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/AI-Assistant/04/out.txt
+/AI-Assistant/04/input.txt
+/AI-Assistant/04/output.html
