@@ -7,3 +7,6 @@
 ## Convert Tool
 * [script](https://github.com/posetmage/StM4H4/blob/master/AI-Assistant/04/Proposal/convert.py)
 * [Chat History](./tool/chat.html)
+* Test
+  * use AI to write [proposal.md](./fun/chatgpt.md)
+  * convet to [table.html](./fun/chatgpt.html)
