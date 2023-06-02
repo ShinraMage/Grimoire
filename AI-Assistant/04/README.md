@@ -2,7 +2,7 @@
 
 ## Outcome
 * [Result](./hw4.html)
-  * [原始檔案](./hw4.md)
+  * [原始檔案](./origin)
 * [Chat History](./chat.html)
 
 ## Convert Tool
