@@ -27,8 +27,14 @@
     max-width: 100%; /* Make the image fit within the table cell */
     height: auto; /* Let the image height adjust automatically */
   }
+
+  .table-container {
+    display: flex;
+    justify-content: center;
+  }
 </style>
 
+<div class="table-container">
 <table style="width: 700px; table-layout: fixed;">
   <tr>
     <td colspan="2" rowspan="2" class="large">{{Game Title}}</td>
@@ -76,6 +82,7 @@
     <td class="table-cell">{{Game Image 2}}</td>
   </tr>
 </table>
+</div>
 
 
 <div class="signature"; style="width: 700px"; >
