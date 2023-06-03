@@ -19,6 +19,15 @@
     background-color: cyan;
 
   }
+  .table-cell {
+    width: 100%; /* Ensure the table cell takes up the full width */
+    height: auto; /* Let the image height adjust automatically */
+  }
+  
+  .table-cell img {
+    max-width: 100%; /* Make the image fit within the table cell */
+    height: auto; /* Let the image height adjust automatically */
+  }
 </style>
 
 <table style="width: 700px; table-layout: fixed;">
@@ -71,13 +80,12 @@
       最後，玩家繞到妖魔背後，使用符咒進行攻擊。在需要時，玩家還可以使用物品如藥品進行恢復</td>
   </tr>
   <tr>
-    <td style="width:33%;"><img src="./concept_a.png"; style="width: 230px;" /></td>
-    <td style="width:33%;"><img src="./concept_b.png"; style="width: 230px;" /></td>
-    
+    <td class="table-cell"><img src="./concept_a.png"></td>
+    <td class="table-cell"><img src="./concept_b.png"></td>    
   </tr>
   <tr>
-    <td><img src="./first_shot.png"; style="width: 700px;" /></td>
-    <td><img src="./first_shot_edit.png"; style="width: 700px;" /></td>
+    <td class="table-cell"><img src="./first_shot.png"></td>
+    <td class="table-cell"><img src="./first_shot_edit.png"></td>
   </tr>
   <tr style="height: 100px"></tr>
 
