@@ -30,13 +30,13 @@
 * (還願)
 
 ## Concept Art
-![Concept Art](url_aaa)
+<img src="./origin_reference.png">
 
 ## Game Image 1
-![Game Image 1](url_bbb)
+<img src="./first_shot.png">
 
 ## Game Image 2
-![Game Image 2](url_ccc)
+<img src="./first_shot_edit.png">
 
 ## Play Demo
 玩家首先開啟靈視（陰陽眼）窺視另一位面的妖魔。觀察其行為後，玩家可選擇切換位面以躲避妖魔或通過關卡。在適當的時機，玩家可以呼叫夥伴協助操作機關或輔助戰鬥。最後，玩家繞到妖魔背後，使用符咒進行攻擊。在需要時，玩家還可以使用物品如藥品進行恢復
