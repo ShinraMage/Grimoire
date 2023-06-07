@@ -10,7 +10,7 @@ layout: default
 <iframe src="./markmap.html" width="100%" height="500px" style="background-color: white;"></iframe>
 
 ## 提案
-<iframe src="./proposal.html" width="100%" style="background-color: white;"></iframe>
+<iframe src="./proposal.html" width="100%" height="100%" style="background-color: white;"></iframe>
 
 ## 故事大綱
 ![](./03%20Screenplay.png)
