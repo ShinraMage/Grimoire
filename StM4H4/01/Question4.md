@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Q4 隱喻
 
 ## posetmage

@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # 叫AI提問
 
 ## posetmage

@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # PikaGo
 ## Game Title
 PikaGo

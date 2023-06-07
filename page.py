@@ -1,7 +1,7 @@
 import os
 import glob
 
-folders = ["./Setting", "./Novel"]
+folders = ["./"]
 
 prepend_text = "---\nlayout: default\n---\n\n"
 

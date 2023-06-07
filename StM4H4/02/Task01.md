@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # 遊戲編劇AI神助手02 HW-1
 
 備註：餵AI我的[設定集](https://posetmage.com/SettingBook/)  

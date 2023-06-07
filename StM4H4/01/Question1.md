@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Q1 資料考證
 
 ## posetmage
