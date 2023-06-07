@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 *並非是我選擇了這樣的一生，而是一生選了我。*  
 <p align="right"><i>−−埃奇歐《刺客教條2》</i></p>
 
@@ -7,8 +11,8 @@
 # PosetMage Handbook
 ## Ch 1: World Setting
 發生在這個世界的故事  
-  * [大一統理論：Entropy](Setting/Ch1/Entropy/)
-  * [某商人的第一次占卜](Setting/Ch1/Divination/)  
+  * [大一統理論：Entropy](Setting/Ch1/Entropy)
+  * [某商人的第一次占卜](Setting/Ch1/Divination)  
   * [家教課](Setting/Ch1/Tuition)
   * [戰術指南](Setting/Ch1/Tactics)
   * [某商人的日記](Setting/Ch1/Diary)
@@ -45,5 +49,4 @@
 ## Appendix
   * [PosetMage由來](Setting/Appendix/PosetMage)
   * [其他工具](Setting/Appendix/Tools)
-    
-<p align="center"><img src="/Icon/New/PosetMage_t.png" Height="32" /> PosetMage <img src="/Icon/New/PosetMage_t.png" Height="32" /></p>
+ 

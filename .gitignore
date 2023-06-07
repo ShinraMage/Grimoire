@@ -1,13 +1,6 @@
-﻿################################################################################
-# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
-################################################################################
-
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
 /.vs
-/AI-Assistant/04/out.txt
-/AI-Assistant/04/input.txt
-/AI-Assistant/04/output.html
-/AI-Assistant/04/output.docx
-/AI-Assistant/04/Proposal/input.txt
-/AI-Assistant/04/tool/input.txt
-/AI-Assistant/04/tool/output.html
-/AI-Assistant/04/node_modules
