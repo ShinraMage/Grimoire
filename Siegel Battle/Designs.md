@@ -6,14 +6,9 @@ layout: default
 
 
 ## 發想
-<style>
-  /* Style the text within the iframe */
-  iframe {
-    color: white;
-  }
-</style>
 
-<iframe src="./output.html" width="100%" height="500px"></iframe>
+<iframe src="./output.html" width="100%" height="500px" style="background-color: white;"></iframe>
+
 ## 提案
 ![](./02%20Proposal.png)
 

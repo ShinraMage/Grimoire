@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Entropy Chronicles
 
 ## Overview

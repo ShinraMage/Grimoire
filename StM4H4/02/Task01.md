@@ -48,14 +48,8 @@ Sure, based on your current framework and my previous suggestions, here's a new 
 This design focuses more on puzzle and strategy elements, aiming to provide a cerebral and engaging gameplay experience. Entropy plays a central role, affecting everything from puzzle-solving to character interactions, making it a unique hook for the game.
 
 備註：將格式文字轉圖表使用MarkMap輸出html如下
-<style>
-  /* Style the text within the iframe */
-  iframe {
-    color: white;
-  }
-</style>
 
-<iframe src="./output.html" width="100%" height="500px"></iframe>
+<iframe src="./output.html" width="100%" height="500px" style="background-color: white;"></iframe>
 
 ## MarkMap
 參考[MarkMap](https://markmap.js.org/)
