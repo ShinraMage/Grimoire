@@ -70,5 +70,5 @@ layout: default
 
 ## 備註
 * 此分析使用遊玩時間：2 hr
-* 遊玩難度：hard
+* 遊玩難度：medium
 * 舉例產品：[RemiLore: Lost Girl in the Lands of Lore](https://store.steampowered.com/app/995240/RemiLore_Lost_Girl_in_the_Lands_of_Lore/)
