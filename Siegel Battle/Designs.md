@@ -6,8 +6,14 @@ layout: default
 
 
 ## 發想
-![](./01%20Brainstorming.png)
+<style>
+  /* Style the text within the iframe */
+  iframe {
+    color: white;
+  }
+</style>
 
+<iframe src="./output.html" width="100%" height="500px"></iframe>
 ## 提案
 ![](./02%20Proposal.png)
 
