@@ -8,7 +8,7 @@ layout: default
 備註：還有餵[發想心智圖](https://hackmd.io/@posetmage/B18gw5Bbi?both)  
 
 ## PosetMage
-備註：直接餵[設定集CH1-Entropy](https://posetmage.com/SettingBook/Setting/Ch1/Entropy/)
+備註：直接餵[設定集CH1-Entropy](https://posetmage.com/SettingBook/Setting/Ch1/Entropy)
 
 ## GPT4
 
@@ -17,7 +17,7 @@ layout: default
 讓我們看看下一篇文章：某商人的第一次占卜。希望能夠以同樣生動有趣的方式繼續談論物理學。
 
 ## PosetMage
-備註：餵了[設定集CH1-Divination](https://posetmage.com/SettingBook/Setting/Ch1/Divination/)前半段
+備註：餵了[設定集CH1-Divination](https://posetmage.com/SettingBook/Setting/Ch1/Divination)前半段
 (然後補上下面句子)
 
 do you understand all my concepts of my words?  
