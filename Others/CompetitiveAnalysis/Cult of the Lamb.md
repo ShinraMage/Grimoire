@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# [Cult of the Lamb](https://www.gog.com/en/game/cult_of_the_lamb)
+# [Cult of the Lamb](https://www.gog.com/en/game/cult_of_the_lamb) - Competitive Analysis
 
 ## 行銷
 
