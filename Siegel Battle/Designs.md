@@ -7,10 +7,10 @@ layout: default
 
 ## 發想
 
-<iframe src="./output.html" width="100%" height="500px" style="background-color: white;"></iframe>
+<iframe src="./markmap.html" width="100%" height="500px" style="background-color: white;"></iframe>
 
 ## 提案
-![](./02%20Proposal.png)
+<iframe src="./proposal.html" width="100%" style="background-color: white;"></iframe>
 
 ## 故事大綱
 ![](./03%20Screenplay.png)
