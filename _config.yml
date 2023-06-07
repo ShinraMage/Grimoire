@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: PosetMage SettingBook
+title: PosetMage Portfolio
 email: PosetMage@gmail.com
 
-baseurl: "/SettingBook" # the subpath of your site, e.g. /blog
+baseurl: "/Portfolio" # the subpath of your site, e.g. /blog
 url: "https://posetmage.com/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
