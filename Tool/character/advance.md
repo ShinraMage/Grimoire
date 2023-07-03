@@ -5,49 +5,70 @@ layout: default
 # 角色卡
 
 ## Name
-Claire 
+Forcy
 
 ## Race Gender
-不死族 可能是女孩
+人類 男生
 
 ## Age
-不詳 可能上千歲
+13
 
 ## Size
-身高140 體重30kg
+身高160 體重45kg
 
 ## profession
-死靈魔法師 
+後勤醫療兵
 
 ## Speaking Style
-腹黑毒舌
+聒噪
 
 ## Catchphrase
-我忘了、就這樣吧
+撐住
 
-## Personality
-對於任何事情不在乎
+## Stage1 History
+父母離異之後被精靈族收養，但被排擠
+## Stage1 Personality
+想要討好大家
+## Stage1 Big Five
+openness(20%)
+efficient(20%) 
+extraversion(90%)
+rational(20%)
+nervous(20%)
+## Stage1 Faith
+未來會更好
+## Stage1 Regret
+父母離異，想要找到父母
+## Stage1 Goal
+想找到父母
 
-## Faith
-沒有特別堅持，想到什麼就做什麼
+## Stage2 History
+離開精靈村莊之後，意外被捲入戰場，被矮人收留並且必須參與掠奪
+## Stage2 Personality
+警戒心態
+## Stage2 Big Five
+openness(20%)
+efficient(80%) 
+extraversion(30%)
+rational(60%)
+nervous(80%)
+## Stage2 Faith
+不希望明天到來
+## Stage2 Regret
+我不想這麼做，卻必須執行掠奪
+## Stage2 Goal
+逃離矮人族
 
-## Regret
-因為都忘了，所以也無所謂了
-
-## Goal 
-召喚大量魔物進攻大陸
-
-## Another Perpective
-黑色系歌德羅利 使用操偶術 手上的玩偶也能是武器
-
-## Brief History
-不知從哪出現的謎之人物，也沒有之前的記憶，不在乎任何人的請求，
-召喚魔物攻打大陸單純是覺得太無聊了找一些事情做，
-
-## References
-發想 - 鍊金系列 – (親女兒)帕梅拉
-講話風格：果青 - 雪之下雪乃
-外觀：天結 -ロズリーヌ・フラン
-
-## Concept
-<img src="./first.png">
+## Stage3 History
+收到魔神復活消息
+## Stage3 Personality
+積極拯救這個世界
+## Stage3 Big Five
+openness(20%)
+efficient(80%) 
+extraversion(90%)
+rational(50%)
+nervous(20%)
+## Stage3 Faith
+## Stage3 Regret
+## Stage3 Goal
