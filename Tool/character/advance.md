@@ -30,11 +30,11 @@ Forcy
 ## Stage1 Personality
 想要討好大家
 ## Stage1 Big Five
-openness(20%)<br>
-efficient(20%)<br>
-extraversion(90%)<br>
-rational(20%)<br>
-nervous(20%)<br>
+openness(20%)
+efficient(20%) 
+extraversion(90%)
+rational(20%)
+nervous(20%)
 ## Stage1 Faith
 未來會更好
 ## Stage1 Regret
@@ -47,11 +47,11 @@ nervous(20%)<br>
 ## Stage2 Personality
 警戒心態
 ## Stage2 Big Five
-openness(20%)<br>
-efficient(80%)<br>
-extraversion(30%)<br>
-rational(60%)<br>
-nervous(80%)<br>
+openness(20%)
+efficient(80%) 
+extraversion(30%)
+rational(60%)
+nervous(80%)
 ## Stage2 Faith
 不希望明天到來
 ## Stage2 Regret
@@ -64,14 +64,11 @@ nervous(80%)<br>
 ## Stage3 Personality
 積極拯救這個世界
 ## Stage3 Big Five
-openness(20%)<br>
-efficient(80%)<br>
-extraversion(90%)<br>
-rational(50%)<br>
-nervous(20%)<br>
+openness(20%)
+efficient(80%) 
+extraversion(90%)
+rational(50%)
+nervous(20%)
 ## Stage3 Faith
-不同種族可以有好相處
 ## Stage3 Regret
-太多戰爭，不想再看到戰爭
 ## Stage3 Goal
-封印魔神
