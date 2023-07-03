@@ -7,10 +7,13 @@ layout: default
 <iframe src="./Elysia.html" width="100%" height="1200px" style="background-color: white;"></iframe>
 <iframe src="./Skrik.html" width="100%" height="1200px" style="background-color: white;"></iframe>
 
-## 詠唱過程
-* [ChatGPT](./chatgpt.html)
 
-## Stable Diffusion
+## 心得
+GPT給的角色卡，幾乎直接google翻譯就能丟stable diffusion了
+
+## [ChatGPT詠唱過程](./chatgpt.html)
+
+## Stable Diffusion 詠唱過程
 * size
   * 480x640
 * sampling

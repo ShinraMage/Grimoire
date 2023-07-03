@@ -32,11 +32,11 @@ Elysia
 ## Stage1 Personality
 對於物質事物冷漠，但對於知識和神秘的事物充滿好奇。
 ## Stage1 Big Five
-openness(90%)<br>
-efficient(70%)<br> 
-extraversion(20%)<br>
-rational(90%)<br>
-nervous(10%)<br>
+openness(90%)
+efficient(70%) 
+extraversion(20%)
+rational(90%)
+nervous(10%)
 ## Stage1 Faith
 追求知識並理解宇宙的神秘。
 ## Stage1 Regret
@@ -49,11 +49,11 @@ nervous(10%)<br>
 ## Stage2 Personality
 變得更內省，對物質世界的冷漠感減少。
 ## Stage2 Big Five
-openness(90%)<br>
-efficient(80%)<br> 
-extraversion(20%)<br>
-rational(90%)<br>
-nervous(10%)<br>
+openness(90%)
+efficient(80%) 
+extraversion(20%)
+rational(90%)
+nervous(10%)
 ## Stage2 Faith
 相信知識與智慧的力量和價值。
 ## Stage2 Regret
@@ -66,11 +66,11 @@ nervous(10%)<br>
 ## Stage3 Personality
 保持她的好奇心和冷靜態度，但展現出一種新的緊迫感和決心。
 ## Stage3 Big Five
-openness(90%)<br>
-efficient(90%)<br> 
-extraversion(30%)<br>
-rational(90%)<br>
-nervous(20%)<br>
+openness(90%)
+efficient(90%) 
+extraversion(30%)
+rational(90%)
+nervous(20%)
 ## Stage3 Faith
 對不同種族的團結和合作有信心。
 ## Stage3 Regret
