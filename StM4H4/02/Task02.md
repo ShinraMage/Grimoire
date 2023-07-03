@@ -6,7 +6,7 @@ layout: default
 
 人物設計
 
-備註：這邊我是直接貼設定集的[人物設計](https://posetmage.com/SettingBook/Setting/04/Design/)
+備註：這邊我是直接貼設定集的[人物設計](https://posetmage.com/Portfolio/Siegel%20Battle/Designs)
 
 ## PosetMage
 I will give you several characters cards that you need to learn my format,

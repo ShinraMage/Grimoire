@@ -7,10 +7,9 @@ layout: default
 ## 基本資料
 * [世界觀](https://posetmage.com/SettingBook/)
 * [人物參考](https://posetmage.com/Portfolio/Siegel%20Battle/Designs)
+* 轉換工具[md to html](https://github.com/posetmage/Portfolio/tree/master/Tool)
 
 ## 輸出結果
 * [三個跑龍套](https://posetmage.com/Portfolio/StM4H4/02/Task02.html)
-* 轉換成初階表格
+* [轉換成初階表格](./First/)
 * 進階表格
-* 詠唱過程
-
