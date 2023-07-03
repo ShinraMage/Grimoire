@@ -51,3 +51,4 @@ Claire
 
 ## Concept
 <img src="./Claire.jpg">
+<br>繪師：minu
