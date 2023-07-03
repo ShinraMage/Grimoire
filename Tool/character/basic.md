@@ -16,7 +16,7 @@ Claire
 ## Size
 身高140 體重30kg
 
-## profession
+## Profession
 死靈魔法師 
 
 ## Speaking Style

@@ -16,7 +16,7 @@ Forcy
 ## Size
 身高160 體重45kg
 
-## profession
+## Profession
 後勤醫療兵
 
 ## Speaking Style
