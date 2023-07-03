@@ -5,10 +5,10 @@ layout: default
 # Siegel Battle
 
 
-## [發想, 提案, 故事大綱](./design/)
+### [發想, 提案, 故事大綱](./design/)
   * [時間軸](./Timeline)
 
-## [人物設計](./character/)
+### [人物設計](./character/)
 
-## Reference
+### Reference
 * [世界觀](/SettingBook)
