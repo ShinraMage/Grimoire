@@ -16,7 +16,7 @@ layout: default
 ![](./03%20Screenplay.png)
 
 ## 人物設計
-![](./Claire.png)
+<iframe src="./Claire.html" width="100%" height="1000px" style="background-color: white;"></iframe>
 ![](./Medina.png)
 ![](./Sienna.png)
 ![](./Cole.png)
