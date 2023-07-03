@@ -49,5 +49,5 @@ Claire
 講話風格：果青 - 雪之下雪乃
 外觀：天結 -ロズリーヌ・フラン
 
-## 形象參考
-<img src="./Claire.png">
+## Concept
+<img src="./Claire.jpg">
