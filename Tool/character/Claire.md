@@ -50,4 +50,4 @@ Claire
 外觀：天結 -ロズリーヌ・フラン
 
 ## 形象參考
-<img src="./first.png">
+<img src="./Claire.png">
