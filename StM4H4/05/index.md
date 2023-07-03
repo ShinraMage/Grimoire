@@ -4,16 +4,13 @@ layout: default
 
 # 遊戲編劇AI神助手 HW 05
 
-## Outcome
-* [Result](./hw4.html)
-  * [原始檔案](./origin)
-* [Chat History](./chat.html)
-* [Concept Art 詠唱過程](./Concept%20Art)
+## 基本資料
+* [世界觀](https://posetmage.com/SettingBook/)
+* [人物參考](https://posetmage.com/Portfolio/Siegel%20Battle/Designs)
 
+## 輸出結果
+* [三個跑龍套](https://posetmage.com/Portfolio/StM4H4/02/Task02.html)
+* 轉換成初階表格
+* 進階表格
+* 詠唱過程
 
-## Refrerence
-* [script](https://github.com/posetmage/Portfolio/tree/master/Tool/proposal)
-* [Chat History](../../Tool/proposal/chat.html)
-* Test
-  * use AI to write [proposal.md](./fun/proposal)
-  * convet to [table.html](./fun/chatgpt.html)
