@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# 《西格爾戰記》
+# Proposal
 
 ## Game Title
 《西格爾戰記》
