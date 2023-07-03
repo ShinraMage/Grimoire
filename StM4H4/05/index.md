@@ -5,8 +5,8 @@ layout: default
 # 遊戲編劇AI神助手 HW 05
 
 ## 基本資料
-* [世界觀](/SettingBook/)
-* [人物參考](/Portfolio/Siegel%20Battle/character)
+* [時間軸](/http://posetmage.com/Portfolio/Siegel%20Battle/Timeline)
+* [人物樣板](/Portfolio/Siegel%20Battle/character)
 * 轉換工具[md to html](https://github.com/posetmage/Portfolio/tree/master/Tool)
 
 ## 輸出結果
