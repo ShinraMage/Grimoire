@@ -16,7 +16,7 @@ Skrik
 ## Size
 身高100cm 體重30kg
 
-## profession
+## Profession
 盜賊
 
 ## Speaking Style

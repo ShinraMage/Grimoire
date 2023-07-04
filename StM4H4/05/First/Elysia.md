@@ -16,7 +16,7 @@ Elysia
 ## Size
 高度不定 重量不定
 
-## profession
+## Profession
 法師
 
 ## Speaking Style

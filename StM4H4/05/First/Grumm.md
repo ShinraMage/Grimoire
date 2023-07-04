@@ -16,7 +16,7 @@ Grumm
 ## Size
 身高190cm 體重120kg
 
-## profession
+## Profession
 獵人與採集者
 
 ## Speaking Style
