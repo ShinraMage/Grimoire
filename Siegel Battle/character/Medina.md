@@ -16,7 +16,7 @@ Medina
 ## Size
 身高163 體重52kg 
 
-## profession
+## Profession
 擅長醫術和廚藝，刀工熟練的輔助型隊友
 
 ## Speaking Style
@@ -38,7 +38,7 @@ Medina
 人類一方負責蒐集資料，似乎有在執行特殊任務<br>
 (表面上是廚師和醫生，實際上對人體解剖很熟，也經常接暗殺任務)
 
-## Another Perpective
+## Another Perspective
 有著現代化知識的忍者
 
 ## Brief History

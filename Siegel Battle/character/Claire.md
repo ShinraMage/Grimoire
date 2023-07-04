@@ -16,7 +16,7 @@ Claire
 ## Size
 身高140 體重30kg
 
-## profession
+## Profession
 死靈魔法師 
 
 ## Speaking Style
@@ -37,7 +37,7 @@ Claire
 ## Goal 
 召喚大量魔物進攻大陸
 
-## Another Perpective
+## Another Perspective
 黑色系歌德羅利 使用操偶術 手上的玩偶也能是武器
 
 ## Brief History

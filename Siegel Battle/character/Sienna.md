@@ -16,7 +16,7 @@ Sienna
 ## Size
 身高193 體重99kg
 
-## profession
+## Profession
 商人 有著靈活的談判討價技巧
 
 ## Speaking Style
@@ -37,7 +37,7 @@ Sienna
 ## Goal 
 在各地之間運送物資，雖然本身有很強的戰鬥能力，但是除非遇到特殊情況，不然不會出手。有著一流的交際手腕，對於戰爭時期調度物資和幫助弱勢的人逃離戰區有很大的貢獻
 
-## Another Perpective
+## Another Perspective
 帶有許多暗器，長年的戰鬥經驗體悟到只有不擇手段的人可以活下。
 
 ## Brief History

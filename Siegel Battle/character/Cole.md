@@ -16,7 +16,7 @@ Cole
 ## Size
 身高140 體重50kg
 
-## profession
+## Profession
 鍛造師
 
 ## Speaking Style
@@ -37,7 +37,7 @@ Cole
 ## Goal 
 這場戰鬥結束，我就要退休去當個工藝製作師(flag?)
 
-## Another Perpective
+## Another Perspective
 被鍛造耽誤的藝術家
 
 ## Brief History
