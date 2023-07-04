@@ -13,7 +13,7 @@ layout: default
 
 ## Convert md to html Table
 * [script](https://github.com/posetmage/Portfolio/tree/master/Tool/proposal)
-* [Chat History](../../Tool/proposal/chat.html)
+* [Chat History](./chat.html)
 * Test
   * use AI to write [proposal.md](./fun/proposal)
   * convet to [table.html](./fun/chatgpt.html)

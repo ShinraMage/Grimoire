@@ -14,6 +14,9 @@ GPT給的角色卡，幾乎直接google翻譯就能丟stable diffusion了
 ## [ChatGPT詠唱過程](./chatgpt.html)
 
 ## Stable Diffusion 詠唱過程
+* txt2img
+* checkpoint
+    * [fantasyWorld_v1.safetensors 6870d20fac](https://civitai.com/images/125986?modelVersionId=13069&prioritizedUserIds=4104&period=AllTime&sort=Most+Reactions&limit=20)
 * size
   * 480x640
 * sampling
