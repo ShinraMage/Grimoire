@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Portifolio
+# 作品集
 
 * [世界觀設定集](/SettingBook)
 * [遊戲企劃](./Siegel%20Battle)
