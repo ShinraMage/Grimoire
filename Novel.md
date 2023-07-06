@@ -49,8 +49,3 @@ layout: default
 * [0043](/SettingBook/Novel/0043)
 * [0044](/SettingBook/Novel/0044)
 * [0045](/SettingBook/Novel/0045)
-* [0046](/SettingBook/Novel/0046)
-* [0047](/SettingBook/Novel/0047)
-* [0048](/SettingBook/Novel/0048)
-* [0049](/SettingBook/Novel/0049)
-* [0050](/SettingBook/Novel/0050)
