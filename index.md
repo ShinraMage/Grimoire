@@ -1,5 +1,7 @@
 ---
 layout: default
+redirect_from:
+  - /protfolio/
 ---
 
 # 作品集
