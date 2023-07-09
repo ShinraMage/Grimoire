@@ -34,6 +34,8 @@ again brainstorming with crazy and many random feild combine something special h
 but this time tell topic about [無機物品]對[器官]執行[動態]，並且這個[動態]是與[排列組合]相關的行為
 remember, use crazy, something look like impossible, no reason
 
+## ChatGPT
+
 無機物品：電燈泡、心臟、翅膀、鑽石、鏡子、書本、車輪、咖啡杯、手機、火箭
 
 器官：眼睛、大腦、肺、肝臟、心臟、手、腳、耳朵、皮膚、骨骼
@@ -42,7 +44,6 @@ remember, use crazy, something look like impossible, no reason
 
 排列組合：交織、融合、重組、互換、擴散、重構、編碼、混合、匯集、串聯
 
-## ChatGPT
 1. 電燈泡的玻璃外殼開始跳舞，彷彿在為音樂伴舞。
 1. 心臟的節奏能夠演奏出美妙的音樂，像一個活生生的音樂家。
 1. 翅膀上的鑽石開始燃燒，散發出美麗的火焰。
