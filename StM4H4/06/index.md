@@ -78,7 +78,7 @@ layout: default
 ## 小說修飾
 [詠唱過程](./05th/chat.html)
 
-### 基於這個概念寫出的第一章節小說再稍微修飾
+### 第一章
 
 The Nexus Arena was a blazing cauldron of energy, its virtual boundaries pulsing with the combined might of the world's greatest spellcasters. The crowd roared, a synthesized symphony of excitement that resonated through the very core of the virtual world. Neon banners with sponsors' logos and virtual fireworks adorned the sky, adding to the spectacle.
 
@@ -116,7 +116,7 @@ He shook his head, banishing the thoughts. For now, he needed to focus on his tr
 
 But the nagging suspicion remained, a seed of doubt that would grow into an obsession, leading him down a path of discovery, danger, and destiny.
 
-### 基於這個概念寫出的第二章節小說再稍微修飾
+### 第二章
 Kael walked through the bustling streets of Seraphis City, a marvel of technological integration where gleaming skyscrapers soared like modern obelisks. They were intertwined with virtual overlays, casting a glow that never dimmed, reflecting off the magnetic levitation trains that glided silently above the streets.
 
 A city where humanity's dreams had taken shape, fueled by the boundless energy of nuclear fusion reactors and the genius of superconductor technology, it was a place where Quantum Crystals pulsed with the heartbeat of progress.
