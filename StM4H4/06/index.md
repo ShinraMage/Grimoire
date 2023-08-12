@@ -55,8 +55,8 @@ layout: default
 - **Social Structure**: A blend of individuals who embrace full technological integration with those who prefer minimal tech use. The balance between real and virtual living varies among individuals.
 
 #### City in Map or Region Position
-- **Nexus City**: (Fictional Addition) A hub of technological advancement, home to research institutions, corporations, and virtual game arenas. A blend of traditional architecture with futuristic designs, connected by magnetic levitation trains.
-- **Undercity**: A region beneath Nexus City, representing a contrast with old-world traditions and lesser tech reliance.
+- **Seraphis City**: A technological hub and symbol of modernity, with gleaming skyscrapers, virtual overlays, and advanced infrastructure.
+- **Old District**: A region within Seraphis City, where outdated technology prevails, and access to virtual worlds is restricted.
 
 ### Nexus Game World Basic Setting
 
