@@ -10,3 +10,4 @@ layout: default
 * [03 Concept Art](./03)
 * [04 Proposal](./04)
 * [05 角色卡](./05)
+* [06 世界觀](./06)
