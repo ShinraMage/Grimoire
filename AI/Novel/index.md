@@ -6,10 +6,11 @@ layout: default
 
 ## Lists
 <ul>
-{% for page in site.pages %}
+{% assign sorted_pages = site.pages | sort: 'name' | reverse %}
+{% for page in sorted_pages %}
   {% if page.categories contains 'Novel' %}
     <li>
-      <a href="{{ page.url \| relative_url }}">{{ page.name }}</a>
+      <a href="{{ page.url | relative_url }}">{{ page.name }}</a>
     </li>
   {% endif %}
 {% endfor %}
