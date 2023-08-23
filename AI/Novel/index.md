@@ -9,7 +9,7 @@ layout: default
 {% for page in site.pages %}
   {% if page.categories contains 'Novel' %}
     <li>
-      <a href="{{ page.url \| relative_url }}">{{ page.title }}</a>
+      <a href="{{ page.url \| relative_url }}">{{ page.name }}</a>
     </li>
   {% endif %}
 {% endfor %}
