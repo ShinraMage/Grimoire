@@ -6,8 +6,20 @@ layout: default
 
 [spelling process](./chatgpt/chat.html)
 
+Basic world setting: 
+* [Entropy](https://posetmage.com/SettingBook/Setting/Ch1/Entropy)
+* [Triality](https://posetmage.com/SettingBook/Setting/Ch3/Triality)
+* [Attribute](https://posetmage.com/SettingBook/Setting/Ch3/Attribute)
 
-## Grumm's Skill's Set
+
+## Grumm
+| Triality | Value |
+|-----------|-------|
+| Tech      | 0.6   |
+| Element   | 0.0   |
+| Faith     | 0.4   |
+
+### Grumm's Skill's Set
 <style>
     table img {
         max-width: 150px;
@@ -118,7 +130,14 @@ Nature's Blessing:</td>
     </tr>
 </table>
 
-## Elysia's Skill's Set
+## Elysia's Entropy
+| Triality | Value |
+|-----------|-------|
+| Tech      | 0.2   |
+| Element   | 0.6   |
+| Faith     | 0.2   |
+
+### Elysia's Skillset
 
 <table border="1" width="700">
     <tr>
@@ -204,8 +223,14 @@ Nature's Blessing:</td>
     </tr>
 </table>
 
-## Skrik's Skillsets:
+## Skrik
+| Triality | Value |
+|-----------|-------|
+| Tech      | 0.5   |
+| Element   | 0.2   |
+| Faith     | 0.3   |
 
+### Skrik's Skillsets:
 <table border="1" width="700">
     <tr>
         <td rowspan="3"><img src="Skrik/Stealth Mastery.png" alt="Input Image"></td>
