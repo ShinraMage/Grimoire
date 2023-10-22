@@ -19,6 +19,10 @@ Basic world setting:
 | Element   | 0.0   |
 | Faith     | 0.4   |
 
+### Grumm's basic info
+* [card](https://posetmage.com/Portfolio/StM4H4/05/Second/Grumm.html)
+* [story](https://posetmage.com/Portfolio/StM4H4/05/First/Grumm.html)
+
 ### Grumm's Skill's Set
 <style>
     table img {
@@ -137,6 +141,10 @@ Nature's Blessing:</td>
 | Element   | 0.6   |
 | Faith     | 0.2   |
 
+### Elysia's basic info
+* [card](https://posetmage.com/Portfolio/StM4H4/05/Second/Elysia.html)
+* [story](https://posetmage.com/Portfolio/StM4H4/05/First/Elysia.html)
+
 ### Elysia's Skillset
 
 <table border="1" width="700">
@@ -229,6 +237,10 @@ Nature's Blessing:</td>
 | Tech      | 0.5   |
 | Element   | 0.2   |
 | Faith     | 0.3   |
+
+### Skrik's basic info
+* [card](https://posetmage.com/Portfolio/StM4H4/05/Second/Skrik.html)
+* [story](https://posetmage.com/Portfolio/StM4H4/05/First/Skrik.html)
 
 ### Skrik's Skillsets:
 <table border="1" width="700">
