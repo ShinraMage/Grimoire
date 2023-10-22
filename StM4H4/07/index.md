@@ -141,33 +141,33 @@ Nature's Blessing:</td>
     <tr>
         <td rowspan="3"><img src="Elysia/Aqua Shield.png" alt="Input Image"></td>
         <td>Aqua Shield</td>
-        <td colspan="5">Effect</td>
+        <td colspan="5">Base Shield Strength: 15</td>
     </tr>
     <tr>        
         <td>System:</td>
-        <td>D1</td>
+        <td>Magic</td>
         <td>Mana:</td>
-        <td>F1</td>
+        <td>8</td>
     </tr>
     <tr>
-        <td colspan="7">Story</td>
+        <td colspan="7">With a serene hum, Elysia calls upon the spirits of the water. A swirling shield of shimmering water forms around her, guarding against the malicious intent that seeks to harm her.</td>
     </tr>
 </table>
 
 <table border="1" width="700">
     <tr>
         <td rowspan="3"><img src="Elysia/Earthbind.png" alt="Input Image"></td>
-        <td>B1</td>
-        <td colspan="5">Effect</td>
+        <td>Earthbind</td>
+        <td colspan="5">Base Snare Duration: 3 seconds</td>
     </tr>
     <tr>        
         <td>System:</td>
-        <td>D1</td>
+        <td>Magic</td>
         <td>Mana:</td>
-        <td>F1</td>
+        <td>7</td>
     </tr>
     <tr>
-        <td colspan="7">Story</td>
+        <td colspan="7">With a stamp of her foot, Elysia commands the earth to heed her call. Roots erupt from beneath, entwining her foes in a steadfast grip, rendering them helpless in their futile struggle for freedom.</td>
     </tr>
 </table>
 
@@ -204,11 +204,13 @@ Nature's Blessing:</td>
     </tr>
 </table>
 
+## Skrik's Skillsets:
+
 <table border="1" width="700">
     <tr>
         <td rowspan="3"><img src="Skrik/Stealth Mastery.png" alt="Input Image"></td>
         <td>Stealth Mastery</td>
-        <td colspan="5">Effect</td>
+        <td colspan="5">Enhanced ability to move unnoticed, hide in shadows, and evade detection.</td>
     </tr>
     <tr>        
         <td>System:</td>
@@ -217,7 +219,7 @@ Nature's Blessing:</td>
         <td>3</td>
     </tr>
     <tr>
-        <td colspan="7">Story</td>
+        <td colspan="7">In the quiet of the night, Skrik moves like a whisper through the dark alleys. His steps are a dance with the shadows, an art of unseen movement honed through years of survival against the odds.</td>
     </tr>
 </table>
 
@@ -225,32 +227,32 @@ Nature's Blessing:</td>
     <tr>
         <td rowspan="3"><img src="Skrik/Lock Manipulation.png" alt="Input Image"></td>
         <td>Lock Manipulation</td>
-        <td colspan="5">Effect</td>
+        <td colspan="5">Ability to tackle more complex locks and reduce the time required to pick locks.</td>
     </tr>
     <tr>        
         <td>System:</td>
         <td>Tech</td>
         <td>Mana:</td>
-        <td>F1</td>
+        <td>5</td>
     </tr>
     <tr>
-        <td colspan="7">Story</td>
+        <td colspan="7">With a gentle touch and a patient ear, Skrik listens to the whispers of the lock, feeling the tumblers dance to the rhythm of his deft fingers. Each lock is a puzzle, a challenge eagerly met and solved.</td>
     </tr>
 </table>
 <table border="1" width="700">
     <tr>
         <td rowspan="3"><img src="Skrik/Night Vision.png" alt="Input Image"></td>
         <td>Night Vision</td>
-        <td colspan="5">Effect</td>
+        <td colspan="5">Improved clarity and range of night vision.</td>
     </tr>
     <tr>        
         <td>System:</td>
         <td>Tech</td>
         <td>Mana:</td>
-        <td>F1</td>
+        <td>3</td>
     </tr>
     <tr>
-        <td colspan="7">Story</td>
+        <td colspan="7">When dusk falls, the world unveils its hidden face to ElSkrik. His eyes, enhanced by the finest goblin tech, pierce through the veil of darkness, revealing the secrets that night holds.</td>
     </tr>
 </table>
 
@@ -258,16 +260,16 @@ Nature's Blessing:</td>
     <tr>
         <td rowspan="3"><img src="Skrik/Dagger Proficiency.png" alt="Input Image"></td>
         <td>Dagger Proficiency</td>
-        <td colspan="5">Effect</td>
+        <td colspan="5">Increased damage, accuracy, and critical hit chance.</td>
     </tr>
     <tr>        
         <td>System:</td>
         <td>Tech</td>
         <td>Mana:</td>
-        <td>F1</td>
+        <td>1</td>
     </tr>
     <tr>
-        <td colspan="7">Story</td>
+        <td colspan="7">The dagger in ElSkrik's hand is an extension of his will. With each swift movement, it sings a silent song of precision and menace, reminding foes of the deadly dance they've been drawn into.</td>
     </tr>
 </table>
 
@@ -275,15 +277,15 @@ Nature's Blessing:</td>
     <tr>
         <td rowspan="3"><img src="Skrik/Shadow Cloak.png" alt="Input Image"></td>
         <td>Shadow Cloak</td>
-        <td colspan="5">Effect</td>
+        <td colspan="5">Increased duration and effectiveness in various lighting conditions.</td>
     </tr>
     <tr>        
         <td>System:</td>
         <td>Magic</td>
         <td>Mana:</td>
-        <td>F1</td>
+        <td>7</td>
     </tr>
     <tr>
-        <td colspan="7">Story</td>
+        <td colspan="7">In a whispered incantation, ElSkrik merges with the shadows. The darkness wraps around him like a cloak, masking his form from prying eyes. In this cloak, he is but a ghost in the night.</td>
     </tr>
 </table>
