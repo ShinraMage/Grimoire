@@ -11,8 +11,9 @@ Basic world setting:
 * [Triality](https://posetmage.com/SettingBook/Setting/Ch3/Triality)
 * [Attribute](https://posetmage.com/SettingBook/Setting/Ch3/Attribute)
 
-
 ## Grumm
+<img src="https://posetmage.com/Portfolio/StM4H4/05/First/Grumm.png" height="350">
+
 | Triality | Value |
 |-----------|-------|
 | Tech      | 0.6   |
@@ -135,6 +136,8 @@ Nature's Blessing:</td>
 </table>
 
 ## Elysia's Entropy
+<img src="https://posetmage.com/Portfolio/StM4H4/05/First/Elysia.png" height="350">
+
 | Triality | Value |
 |-----------|-------|
 | Tech      | 0.2   |
@@ -232,6 +235,8 @@ Nature's Blessing:</td>
 </table>
 
 ## Skrik
+<img src="https://posetmage.com/Portfolio/StM4H4/05/First/Skrik.png" height="350">
+
 | Triality | Value |
 |-----------|-------|
 | Tech      | 0.5   |
