@@ -297,7 +297,7 @@ Nature's Blessing:</td>
         <td>3</td>
     </tr>
     <tr>
-        <td colspan="7">When dusk falls, the world unveils its hidden face to ElSkrik. His eyes, enhanced by the finest goblin tech, pierce through the veil of darkness, revealing the secrets that night holds.</td>
+        <td colspan="7">When dusk falls, the world unveils its hidden face to Skrik. His eyes, enhanced by the finest goblin tech, pierce through the veil of darkness, revealing the secrets that night holds.</td>
     </tr>
 </table>
 
@@ -314,7 +314,7 @@ Nature's Blessing:</td>
         <td>1</td>
     </tr>
     <tr>
-        <td colspan="7">The dagger in ElSkrik's hand is an extension of his will. With each swift movement, it sings a silent song of precision and menace, reminding foes of the deadly dance they've been drawn into.</td>
+        <td colspan="7">The dagger in Skrik's hand is an extension of his will. With each swift movement, it sings a silent song of precision and menace, reminding foes of the deadly dance they've been drawn into.</td>
     </tr>
 </table>
 
@@ -331,6 +331,6 @@ Nature's Blessing:</td>
         <td>7</td>
     </tr>
     <tr>
-        <td colspan="7">In a whispered incantation, ElSkrik merges with the shadows. The darkness wraps around him like a cloak, masking his form from prying eyes. In this cloak, he is but a ghost in the night.</td>
+        <td colspan="7">In a whispered incantation, Skrik merges with the shadows. The darkness wraps around him like a cloak, masking his form from prying eyes. In this cloak, he is but a ghost in the night.</td>
     </tr>
 </table>
