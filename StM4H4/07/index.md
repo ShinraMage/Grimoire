@@ -136,7 +136,7 @@ Nature's Blessing:</td>
     </tr>
 </table>
 
-## Elysia's Entropy
+## Elysia
 <img src="https://posetmage.com/Portfolio/StM4H4/05/First/Elysia.png" height="350">
 
 | Triality | Value |
