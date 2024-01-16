@@ -4,7 +4,7 @@ layout: default
 
 # 遊戲編劇AI神助手 HW 08
 
-[原始版本](https://posetmage.com/Portfolio/Siegel%20Battle/Timeline)使用的是摩訶聖的起承轉合版
+[原始版本](https://posetmage.com/Portfolio/Siegel%20Battle/Timeline)使用的是[摩訶聖的起承轉合版](https://www.youtube.com/watch?v=HkZMQc2wYUg&list=PLrmecOkg5HR5dyQANbfpvj3LMg4it-8Yf&index=7)
 
 使用AI： [我的GPTs](https://gptstore.ai/gpts/ZCKhLag1LP)，
 此AI的prompt [source code](https://ai.posetmage.com/GPTs/Navi%20-%20Narrative%20Storytelling%20Writer/)
