@@ -6,8 +6,8 @@ layout: default
 
 [原始版本](https://posetmage.com/Portfolio/Siegel%20Battle/Timeline)使用的是摩訶聖的起承轉合版
 
-使用AI： [GPTs](https://gptstore.ai/gpts/ZCKhLag1LP)，
-此AI的prompt[source code](https://ai.posetmage.com/GPTs/Navi%20-%20Narrative%20Storytelling%20Writer/)
+使用AI： [我的GPTs](https://gptstore.ai/gpts/ZCKhLag1LP)，
+此AI的prompt [source code](https://ai.posetmage.com/GPTs/Navi%20-%20Narrative%20Storytelling%20Writer/)
 
 
 ## 三幕劇版
