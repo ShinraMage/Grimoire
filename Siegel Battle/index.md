@@ -7,6 +7,3 @@
   * [對話庫](./Dialog.md)
 
 ### [人物設計](./character/)
-
-### Reference
-* [世界觀](/SettingBook)
