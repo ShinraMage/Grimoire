@@ -2,10 +2,11 @@
 layout: default
 ---
 
-# 作品集
+# Game Design Documents
 
-* [世界觀設定集](/SettingBook)
-* [遊戲企劃](./Siegel%20Battle)
-* [AI輔助遊戲編劇](./StM4H4)
-* [小短文](./Novel)
-* [AI練習區](https://ai.posetmage.com/Practicing)
+* [Siegel Battle](./Siegel%20Battle)
+* [Music Training](./MusicTraining/)
+
+## Other link
+* [AI輔助遊戲編劇](https://ai.posetmage.com/Practice/StM4H4/)
+* [Setting Book](/Novel/Setting/)

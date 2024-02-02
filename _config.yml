@@ -18,19 +18,40 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: PosetMage Portfolio
+title: GameDesign from PosetMage
+email: mail@posetmage.com
 
-baseurl: "/Portfolio" # the subpath of your site, e.g. /blog
-url: "https://posetmage.com/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/GameDesign" # the subpath of your site, e.g. /blog
+url: "https://posetmage.com" # the base hostname & protocol for your site, e.g. http://example.com
+
+repository: posetmage/GameDesign
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "page"
+
+
+includes_dir: _shared/_includes
+layouts_dir: _shared/_layouts
 
 # Build settings
-remote_theme: pages-themes/midnight@v0.2.0
+remote_theme: jekyll/minima
+
+minima:
+  skin: dark
 
 plugins:
   - jekyll-external-links
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-category-pages
   - jekyll-remote-theme
+  - jekyll-sitemap
+  - jekyll-titles-from-headings
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
