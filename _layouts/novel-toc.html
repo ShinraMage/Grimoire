@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+{{ page.categories }} <br> 
+
+
+{% assign category_pages = site.pages | where_exp: "item", "item.categories contains page.categories" %}
+{% assign sorted_pages = category_pages | sort: 'url' | reverse %}
+{% for p in sorted_pages %}
+    {% assign filename = p.url | split: '/' %}
+    {% assign filename_no_html = filename.last | remove: '.html' %}
+    {% unless filename_no_html == 'toc' %}
+        <a style="font-size: 1em;" href="{{ p.url | relative_url }}">{{ filename_no_html }}</a><br> 
+    {% endunless %}
+{% endfor %}
+
+

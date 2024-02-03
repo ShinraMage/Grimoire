@@ -18,6 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+
 title: GameDesign from PosetMage
 email: mail@posetmage.com
 
@@ -33,9 +34,23 @@ defaults:
     values:
       layout: "page"
 
-
-includes_dir: _shared/_includes
-layouts_dir: _shared/_layouts
+social:
+  - platform: envelope
+    url: mailto:mail@posetmage.com
+  - platform: linkedin
+    url: https://linkedin.com/in/posetmage
+  - platform: youtube
+    url: https://youtube.com/@posetmage
+  - platform: facebook
+    url: https://facebook.com/posetmage
+  - platform: twitter
+    url: https://twitter.com/posetmage
+  - platform: line
+    url: https://line.me/ti/p/Out6J_7uOq
+  - platform: telegram
+    url: https://t.me/posetmage
+  - platform: twitch
+    url: https://twitch.tv/posetmage
 
 # Build settings
 remote_theme: jekyll/minima
@@ -52,6 +67,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-titles-from-headings
   - jekyll-seo-tag
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
