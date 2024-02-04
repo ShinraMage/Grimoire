@@ -18,21 +18,19 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-
-title: GameDesign from PosetMage
+title: PosetMage
 email: mail@posetmage.com
-
-baseurl: "/GameDesign" # the subpath of your site, e.g. /blog
-url: "https://posetmage.com" # the base hostname & protocol for your site, e.g. http://example.com
-
+url: https://posetmage.com # the base hostname & protocol for your site, e.g. http://example.com
 repository: posetmage/GameDesign
+baseurl: /GameDesign # the subpath of your site, e.g. /blog
+description: GameDesign
 
 defaults:
   -
     scope:
       path: ""
     values:
-      layout: "page"
+      layout: "notes"
 
 social:
   - platform: envelope
