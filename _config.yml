@@ -30,7 +30,7 @@ defaults:
     scope:
       path: ""
     values:
-      layout: "page"
+      layout: "base"
 
 social:
   - platform: envelope
