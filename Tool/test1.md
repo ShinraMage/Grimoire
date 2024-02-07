@@ -6,83 +6,103 @@ layout: notes
 
 ## ★ Game Proposal Converter
 <button class="download-template" data-path="proposal/proposal.md">Download proposal.md template</button>
-<button class="md2html-converter" data-target-iframe="gameProposalPreview" data-path="proposal/proposal.html.txt">Preview proposal</button>
+<button class="uploadAndPreviewButton" data-target-iframe="gameProposalPreview" data-path="proposal/proposal.html.txt">Upload proposal.md</button>
+<button class="downloadHtmlButton" data-for="gameProposalPreview" data-default-name="proposal.html">Download proposal.html</button>
 <iframe id="gameProposalPreview" width="100%" height="600px" style="background-color: white;"></iframe>
 <br><br>
 
-
-## ★ Outline Converter
-<button class="download-template" data-path="outline/outline.md">Download outline.md template</button>
-<button class="md2html-converter" data-target-iframe="gameOutlinePreview" data-path="outline/outline.html.txt">Preview Outline</button>
+## ★ Game Outline Converter
+<button class="download-template" data-path="outline/outline.md">Download Outline.md template</button>
+<button class="uploadAndPreviewButton" data-target-iframe="gameOutlinePreview" data-path="outline/outline.html.txt">Upload Outline.md</button>
+<button class="downloadHtmlButton" data-for="gameOutlinePreview" data-default-name="outline.html">Download Outline.html</button>
 <iframe id="gameOutlinePreview" width="100%" height="600px" style="background-color: white;"></iframe>
 <br><br>
 
 ## ★ Character Card, Basic ver Converter
 <button class="download-template" data-path="character/basic.md">Download Char_Basic.md template</button>
-<button class="md2html-converter" data-target-iframe="CharBasicPreview" data-path="character/basic.html.txt">Preview Char_Basic</button>
-<iframe id="CharBasicPreview" width="100%" height="600px" style="background-color: white;"></iframe>
+<button class="uploadAndPreviewButton" data-target-iframe="Char_BasicPreview" data-path="character/basic.html.txt">Upload Char_Basic.md</button>
+<button class="downloadHtmlButton" data-for="Char_BasicPreview" data-default-name="basic.html">Download Char_Basic.html</button>
+<iframe id="Char_BasicPreview" width="100%" height="600px" style="background-color: white;"></iframe>
 <br><br>
 
 ## ★ Character Card, Advance ver Converter
 <button class="download-template" data-path="character/advance.md">Download Char_Advance.md template</button>
-<button class="md2html-converter" data-target-iframe="CharAdvPreview" data-path="character/advance.html.txt">Preview Char_Advance</button>
-<iframe id="CharAdvPreview" width="100%" height="600px" style="background-color: white;"></iframe>
+<button class="uploadAndPreviewButton" data-target-iframe="Char_AdvancePreview" data-path="character/advance.html.txt">Upload Char_Advance.md</button>
+<button class="downloadHtmlButton" data-for="Char_AdvancePreview" data-default-name="advance.html">Download Char_Advance.html</button>
+<iframe id="Char_AdvancePreview" width="100%" height="600px" style="background-color: white;"></iframe>
 <br><br>
 
-
 <script>
-    document.querySelectorAll('.download-template').forEach(button => {
-        button.addEventListener('click', function() {
-            // Retrieve the file path from the button's data-path attribute
-            var filePath = this.getAttribute('data-path');
-            // Create a new <a> element
-            var link = document.createElement('a');
-            // Set the href to the file path, assuming files are in a publicly accessible directory
-            link.href = './' + filePath;
-            // Use the download attribute to specify the filename; this can be tailored as needed
-            link.download = filePath.substring(filePath.lastIndexOf('/') + 1);
-            // Append the <a> element to the body (temporarily) to make it clickable
-            document.body.appendChild(link);
-            // Programmatically click the <a> element to trigger the download
-            link.click();
-            // Remove the <a> element from the body
-            document.body.removeChild(link);
-        });
+document.querySelectorAll('.download-template').forEach(button => {
+    button.addEventListener('click', function() {
+        const filePath = this.getAttribute('data-path');
+        const link = document.createElement('a');
+        link.href = './' + filePath;
+        link.download = filePath.substring(filePath.lastIndexOf('/') + 1);
+        document.body.appendChild(link);
+        link.click();
+        document.body.removeChild(link);
     });
-</script>
+});
 
-<script type="text/javascript">
-    document.addEventListener('DOMContentLoaded', function() {
-        // Select all converter buttons
-        var converterButtons = document.querySelectorAll('.md2html-converter');
+document.querySelectorAll('.uploadAndPreviewButton').forEach(button => {
+    button.addEventListener('click', function() {
+        const targetIframeID = this.getAttribute('data-target-iframe');
+        const htmlFilePath = this.getAttribute('data-path');
+        const fileInput = document.createElement('input');
+        fileInput.type = 'file';
+        fileInput.accept = '.md';
         
-        // Add click event listener to each button
-        converterButtons.forEach(function(button) {
-            button.addEventListener('click', function() {
-                // Retrieve the HTML file path from the button's data-path attribute
-                var htmlFilePath = this.getAttribute('data-path');
+        fileInput.onchange = e => {
+            const file = e.target.files[0];
+            if (!file) return;
+            
+            const reader = new FileReader();
+            reader.onload = function(e) {
+                const mdContent = e.target.result;
                 
-                // Use fetch API to get the content of the .txt file
-                fetch('./' + htmlFilePath) // Adjust the path as necessary
+                fetch('./' + htmlFilePath)
                     .then(response => response.text())
-                    .then(data => {
-                        // Create a blob of type 'text/html' with the content
-                        var blob = new Blob([data], { type: 'text/html' });
-                        
-                        // Create a URL for the blob
-                        var url = URL.createObjectURL(blob);
-                        
-                        // Find the target iframe ID from the button's data-target-iframe attribute
-                        var targetIframeID = this.getAttribute('data-target-iframe');
-                        
-                        // Find the target iframe by ID
-                        var targetIframe = document.getElementById(targetIframeID);
-                        
-                        // Update the 'src' attribute of the iframe with the blob URL
-                        targetIframe.src = url;
+                    .then(templateHtml => {
+                        const convertedHtml = convertMdContentToHtml(mdContent, templateHtml);
+                        displayInIframe(convertedHtml, targetIframeID);
+                        prepareDownloadHtmlButton(convertedHtml, button.nextElementSibling, targetIframeID);
                     })
-                    .catch(error => console.error('Error loading the file:', error));
-            });
-        });
+                    .catch(error => console.error('Error loading the HTML template:', error));
+            };
+            
+            reader.readAsText(file);
+        };
+
+        fileInput.click();
     });
+});
+
+function convertMdContentToHtml(mdContent, templateHtml) {
+    // Placeholder for conversion logic
+    // Implement the actual conversion logic based on your specific needs here.
+    // This is a simplified example that directly returns the templateHtml.
+    return templateHtml; // Replace with actual conversion logic
+}
+
+function displayInIframe(htmlContent, iframeId) {
+    const targetIframe = document.getElementById(iframeId);
+    const blob = new Blob([htmlContent], {type: 'text/html'});
+    const url = URL.createObjectURL(blob);
+    targetIframe.src = url;
+}
+
+function prepareDownloadHtmlButton(htmlContent, downloadButton, iframeId) {
+    const defaultName = downloadButton.getAttribute('data-default-name');
+    downloadButton.onclick = () => {
+        const blob = new Blob([htmlContent], {type: 'text/html'});
+        const url = URL.createObjectURL(blob);
+        const link = document.createElement('a');
+        link.href = url;
+        link.download = defaultName;
+        document.body.appendChild(link);
+        link.click();
+        document.body.removeChild(link);
+    };
+}
 </script>
