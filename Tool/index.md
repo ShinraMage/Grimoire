@@ -5,6 +5,8 @@ layout: notes
 # Tools
 
 ## ★ Game Proposal Converter
+Origin version from [摩訶聖 StM4H4](https://stm4h4.com/downloads/)
+
 <button class="download-template" data-path="proposal/proposal.md">Download proposal.md template</button>
 <button class="uploadAndPreviewButton" data-target-iframe="gameProposalPreview" data-path="proposal/proposal.html.txt">Upload proposal.md</button>
 <button class="downloadHtmlButton" data-for="gameProposalPreview" data-default-name="proposal.html">Download proposal.html</button>
@@ -12,6 +14,8 @@ layout: notes
 <br><br>
 
 ## ★ Game Outline Converter
+Origin version from [摩訶聖 StM4H4](https://stm4h4.com/downloads/)
+
 <button class="download-template" data-path="outline/outline.md">Download Outline.md template</button>
 <button class="uploadAndPreviewButton" data-target-iframe="gameOutlinePreview" data-path="outline/outline.html.txt">Upload Outline.md</button>
 <button class="downloadHtmlButton" data-for="gameOutlinePreview" data-default-name="outline.html">Download Outline.html</button>
@@ -19,6 +23,8 @@ layout: notes
 <br><br>
 
 ## ★ Character Card, Basic ver Converter
+Origin version from [摩訶聖 StM4H4](https://stm4h4.com/downloads/)
+
 <button class="download-template" data-path="character/basic.md">Download Char_Basic.md template</button>
 <button class="uploadAndPreviewButton" data-target-iframe="Char_BasicPreview" data-path="character/basic.html.txt">Upload Char_Basic.md</button>
 <button class="downloadHtmlButton" data-for="Char_BasicPreview" data-default-name="basic.html">Download Char_Basic.html</button>
@@ -26,6 +32,8 @@ layout: notes
 <br><br>
 
 ## ★ Character Card, Advance ver Converter
+Origin version from [摩訶聖 StM4H4](https://stm4h4.com/downloads/)
+
 <button class="download-template" data-path="character/advance.md">Download Char_Advance.md template</button>
 <button class="uploadAndPreviewButton" data-target-iframe="Char_AdvancePreview" data-path="character/advance.html.txt">Upload Char_Advance.md</button>
 <button class="downloadHtmlButton" data-for="Char_AdvancePreview" data-default-name="advance.html">Download Char_Advance.html</button>
