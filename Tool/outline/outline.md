@@ -1,6 +1,9 @@
 
 # Outline
 
+## Game Title
+PikaGo
+
 ## Beginning
 大戰結束，戰士撿到主角並收其為徒，一段時間之後收到長老召集信
 

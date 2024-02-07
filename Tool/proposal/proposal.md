@@ -12,6 +12,8 @@ A kind of crpg game
 * system1 with detail
 * dlc system
 * shop
+## Competitive
+* KataGo
 ## Selling Points
 * easy to play
 * not large 

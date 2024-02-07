@@ -1,3 +1,9 @@
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{Name}} - Char Card</title>
+</head>
+
 <style>
   td {
     text-align: center;
@@ -145,6 +151,5 @@
 
 <div style="height: 100px"></div>
 <p class="center-text">
-  <img src="https://posetmage.com/Images/Icon/PosetMage_t.png" height="16" /> PosetMage
-  <img src="https://posetmage.com/Images/Icon/PosetMage_t.png" height="16" />
+  Author
 </p>
