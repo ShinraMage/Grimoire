@@ -140,24 +140,29 @@ function displayInIframe(htmlContent, iframeId) {
 }
 </script>
 
-#### [python ver](https://github.com/posetmage/GameDesign/blob/master/Tool/convert.py)
+### [python ver](https://github.com/posetmage/GameDesign/blob/master/Tool/convert.py)
 
 https://raw.githubusercontent.com/posetmage/GameDesign/master/Tool/proposal/proposal.html
 
-#### examples
-Origin version from [摩訶聖 StM4H4](https://stm4h4.com/downloads/)
+### examples
+#### Save the Cat Beatsheet
+* [beatsheet.html template](https://raw.githubusercontent.com/posetmage/GameDesign/master/Tool/outline/Beat%20Sheet.html)
+* [beatsheet.md template](https://raw.githubusercontent.com/posetmage/GameDesign/master/Tool/outline/Beat%20Sheet.md)
+* You can use My[GPTs - Navi](https://ai.posetmage.com/GPTs/Navi%20-%20Beat%20Sheet%20Writer/) to gen this beatsheet.md
+
+#### tables from [摩訶聖 StM4H4](https://stm4h4.com/downloads/)
 * Proposal
-  * <button class="download-template" data-path="https://raw.githubusercontent.com/posetmage/GameDesign/master/Tool/proposal/proposal.md">proposal.md template</button>
-  * <button class="download-template" data-path="https://raw.githubusercontent.com/posetmage/GameDesign/master/Tool/proposal/proposal.html">proposal.html template</button>
+  * [proposal.md template](https://raw.githubusercontent.com/posetmage/GameDesign/master/Tool/proposal/proposal.md)
+  * [proposal.html template](https://raw.githubusercontent.com/posetmage/GameDesign/master/Tool/proposal/proposal.html)
 * Outline
-  * <button class="download-template" data-path="https://raw.githubusercontent.com/posetmage/GameDesign/master/Tool/outline/outline.md">Outline.md template</button>
-  * <button class="download-template" data-path="https://raw.githubusercontent.com/posetmage/GameDesign/master/Tool/outline/outline.html">Outline.html template</button>
+  * [Outline.md template](https://raw.githubusercontent.com/posetmage/GameDesign/master/Tool/outline/outline.md)
+  * [Outline.html template](https://raw.githubusercontent.com/posetmage/GameDesign/master/Tool/outline/outline.html)
 * Basic Character Card
-  * <button class="download-template" data-path="https://raw.githubusercontent.com/posetmage/GameDesign/master/Tool/character/basic.md">Char_Basic.md template</button>
-  * <button class="download-template" data-path="https://raw.githubusercontent.com/posetmage/GameDesign/master/Tool/character/basic.html">Char_Basic.html template</button>
+  * [Char_Basic.md template](https://raw.githubusercontent.com/posetmage/GameDesign/master/Tool/character/basic.md)
+  * [Char_Basic.html template](https://raw.githubusercontent.com/posetmage/GameDesign/master/Tool/character/basic.html)
 * Advance Character Card
-  * <button class="download-template" data-path="https://raw.githubusercontent.com/posetmage/GameDesign/master/Tool/character/advance.md">Char_Advance.md template</button>
-  * <button class="download-template" data-path="https://raw.githubusercontent.com/posetmage/GameDesign/master/Tool/character/advance.html">Char_Advance.html template</button>
+  * [Char_Advance.md template](https://raw.githubusercontent.com/posetmage/GameDesign/master/Tool/character/advance.md)
+  * [Char_Advance.html template](https://raw.githubusercontent.com/posetmage/GameDesign/master/Tool/character/advance.html)
 
 
 <script>
