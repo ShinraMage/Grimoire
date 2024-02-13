@@ -4,12 +4,12 @@ layout: notes
 
 # Tools
 
-## Converter
-{% raw %}
+## Converter 
+([python ver](https://github.com/posetmage/GameDesign/blob/master/Tool/convert.py))
+
 ```
 upload md file Use ## as content and replace {{}} in html
 ```
-{% endraw %}
 
 
 <button class="upload-template" data-target-iframe="OutPreview">Upload template.html</button>
@@ -140,46 +140,22 @@ function displayInIframe(htmlContent, iframeId) {
 }
 </script>
 
-### [python ver](https://github.com/posetmage/GameDesign/blob/master/Tool/convert.py)
-
-https://raw.githubusercontent.com/posetmage/GameDesign/master/Tool/proposal/proposal.html
-
 ### examples
 #### Save the Cat Beatsheet
 * [beatsheet.html template](https://raw.githubusercontent.com/posetmage/GameDesign/master/Tool/outline/Beat%20Sheet.html)
 * [beatsheet.md template](https://raw.githubusercontent.com/posetmage/GameDesign/master/Tool/outline/Beat%20Sheet.md)
-* You can use My[GPTs - Navi](https://chat.openai.com/g/g-NsZTxNrJJ) to gen this beatsheet.md
+* You can use [GPTs - Navi](https://chat.openai.com/g/g-NsZTxNrJJ) to gen this beatsheet.md
 
 #### tables from [摩訶聖 StM4H4](https://stm4h4.com/downloads/)
 * Proposal
   * [proposal.md template](https://raw.githubusercontent.com/posetmage/GameDesign/master/Tool/proposal/proposal.md)
   * [proposal.html template](https://raw.githubusercontent.com/posetmage/GameDesign/master/Tool/proposal/proposal.html)
-  * You can use My[GPTs - Vixen](https://chat.openai.com/g/g-oR0tADta6) to gen proposal.md 
+  * You can use [GPTs - Vixen](https://chat.openai.com/g/g-oR0tADta6) to gen proposal.md 
 * Outline
   * [Outline.md template](https://raw.githubusercontent.com/posetmage/GameDesign/master/Tool/outline/outline.md)
   * [Outline.html template](https://raw.githubusercontent.com/posetmage/GameDesign/master/Tool/outline/outline.html)
-* Basic Character Card
-  * [Char_Basic.md template](https://raw.githubusercontent.com/posetmage/GameDesign/master/Tool/character/basic.md)
+* Character Card
+  * [Character.md template](https://raw.githubusercontent.com/posetmage/GameDesign/master/Tool/character/character.md)
   * [Char_Basic.html template](https://raw.githubusercontent.com/posetmage/GameDesign/master/Tool/character/basic.html)
-* Advance Character Card
-  * [Char_Advance.md template](https://raw.githubusercontent.com/posetmage/GameDesign/master/Tool/character/advance.md)
   * [Char_Advance.html template](https://raw.githubusercontent.com/posetmage/GameDesign/master/Tool/character/advance.html)
-
-
-<script>
-document.querySelectorAll('.download-template').forEach(button => {
-    button.addEventListener('click', function() {
-        const filePath = this.getAttribute('data-path');
-        // Check if filePath is an absolute URL
-        const isAbsoluteURL = filePath.startsWith('http://') || filePath.startsWith('https://');
-        const link = document.createElement('a');
-        // Set href based on whether filePath is an absolute URL
-        link.href = isAbsoluteURL ? filePath : './' + filePath;
-        link.download = filePath.substring(filePath.lastIndexOf('/') + 1);
-        document.body.appendChild(link);
-        link.click();
-        document.body.removeChild(link);
-    });
-});
-
-</script>
+  * You can use [GPTs - Scarlett](https://chat.openai.com/g/g-LD06QK4Bt) to gen Character.md 
