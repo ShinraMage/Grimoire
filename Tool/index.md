@@ -148,12 +148,13 @@ https://raw.githubusercontent.com/posetmage/GameDesign/master/Tool/proposal/prop
 #### Save the Cat Beatsheet
 * [beatsheet.html template](https://raw.githubusercontent.com/posetmage/GameDesign/master/Tool/outline/Beat%20Sheet.html)
 * [beatsheet.md template](https://raw.githubusercontent.com/posetmage/GameDesign/master/Tool/outline/Beat%20Sheet.md)
-* You can use My[GPTs - Navi](https://ai.posetmage.com/GPTs/Navi%20-%20Beat%20Sheet%20Writer/) to gen this beatsheet.md
+* You can use My[GPTs - Navi](https://chat.openai.com/g/g-NsZTxNrJJ) to gen this beatsheet.md
 
 #### tables from [摩訶聖 StM4H4](https://stm4h4.com/downloads/)
 * Proposal
   * [proposal.md template](https://raw.githubusercontent.com/posetmage/GameDesign/master/Tool/proposal/proposal.md)
   * [proposal.html template](https://raw.githubusercontent.com/posetmage/GameDesign/master/Tool/proposal/proposal.html)
+  * You can use My[GPTs - Vixen](https://chat.openai.com/g/g-oR0tADta6) to gen proposal.md 
 * Outline
   * [Outline.md template](https://raw.githubusercontent.com/posetmage/GameDesign/master/Tool/outline/outline.md)
   * [Outline.html template](https://raw.githubusercontent.com/posetmage/GameDesign/master/Tool/outline/outline.html)
