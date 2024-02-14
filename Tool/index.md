@@ -113,7 +113,7 @@ function displayInIframe(htmlContent, iframeId) {
 
 ### examples
 #### Save the Cat Beatsheet
-* [beatsheet.html](https://raw.githubusercontent.com/LatticeMage/Jekyll_includes/main/design/Beat%20Sheet.html)
+* [beetsheat.html](https://raw.githubusercontent.com/aimageguild/GPTs/main/Design/Navi%20-%20Beat%20Sheet%20Writer/Beat%20Sheet.html)
 * [beetsheat.yml](https://raw.githubusercontent.com/aimageguild/GPTs/main/Design/Navi%20-%20Beat%20Sheet%20Writer/Beat%20Sheet.yml)
 * You can use [GPTs - Navi](https://chat.openai.com/g/g-NsZTxNrJJ) to gen this beatsheet.yml
 
