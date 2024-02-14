@@ -1,33 +1,53 @@
+Version:
+  "1.0.1"
+
+Author:
+  "PosetMage"
+
 Game_Title:
-  "CatGo"
+  "西格爾戰記"
+
 Game_Type:
-  "CRPG"
+  "2D 六角棋盤 SLG"
+
 Introduction:
-  "how to get a cat"
+  "一位被精靈扶養過之後被遺棄的人類少女,在幾經波折之後獲得魔神復活的消息，
+現在跟著矮人師傅一起修練，但似乎難以說服師傅一起對抗魔神......"
+
 Abstract:
-  "A kind of crpg game"
+  "戰棋類遊戲,類似 DnD 版的魔喚精靈"
+
 System:
-  "◆ system1 with detail
-  ◆ dlc system
-  ◆ shop
+  "◆ 回合制戰棋<br>
+  ◆ 場地有狀態Entropy<br>
+  ◆ 不同種族策略取捨<br>
   "
-Competitive:
-  "◆ KataGo"
-Selling_Points:
-  "◆ easy to play<br>
-  ◆ not large 
-  "
-World:
-  "fantasy world with many cats"
+
 TA_Platform:
-  "◆ girls like play cute games
-  ◆ PC,console
+  "◆ 喜歡幻想世界的策略型玩家<br>
+  ◆ PC, Console, Mobile
+  "
+
+Selling_Points:
+  "遊戲的賣點在Entropy機制。 Entropy區域內不同總族越多,行動懲罰越重"
+
+World:
+  "日系萌系JRPG風格的劍與魔法世界，有著戰士、法師、典型的精靈、矮人。<br>
+世界最大的法則是Entropy，影響著世界的運作，甚至平行世界之間也是由Entropy牆所阻隔。"
+
+Competitive:
+  "◆ 魔喚精靈<br>
+  ◆ 皇家騎士團<br>
+  ◆ 天結<br>
   "
 Concept_Art:
-  "![](url_aaa)"
+  "<img src=\"./origin_reference.png\">"
+
 Game_Image1:
-  "![](url_bbb)"
+  "<img src=\"./first_shot.png\">"
+
 Game_Image2:
-  "![](url_ccc)"
+  "<img src=\"./first_shot_edit.png\">"
+
 Play_Demo:
-  "drag a net to throw on cat"
+  "戰鬥前玩家需要配置隊伍成員中不同種族的比率。戰鬥開始後，雙方會派各自的兵力配置去戰鬥,在區域內有不同種族行動會觸發讓行動困難的Entropy值。"
