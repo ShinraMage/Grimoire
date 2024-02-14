@@ -1,9 +1,9 @@
 Title:
-  "PikaGo"
+  "CatGo"
 Game_Type:
   "CRPG"
 Introduction:
-  "how to get a pika"
+  "how to get a cat"
 Abstract:
   "A kind of crpg game"
 System:
@@ -17,16 +17,12 @@ Selling_Points:
   "◆ easy to play<br>
   ◆ not large 
   "
-TA:
-  "◆ girls like play<br>
-  ◆ want to play cute
-  "
 World:
   "fantasy world with many pika"
-Platforms:
-  "◆ PC<br>
-  ◆ mobile<br>
-  ◆ console"
+TA_Platforms:
+  "◆ girls like play cute games
+  ◆ PC,console
+  "
 Concept_Art:
   "![](url_aaa)"
 Game_Image1:
