@@ -1,4 +1,4 @@
-Title:
+Game_Title:
   "CatGo"
 Game_Type:
   "CRPG"
@@ -18,8 +18,8 @@ Selling_Points:
   ◆ not large 
   "
 World:
-  "fantasy world with many pika"
-TA_Platforms:
+  "fantasy world with many cats"
+TA_Platform:
   "◆ girls like play cute games
   ◆ PC,console
   "
@@ -30,4 +30,4 @@ Game_Image1:
 Game_Image2:
   "![](url_ccc)"
 Play_Demo:
-  "drag a ball to throw on pika"
+  "drag a net to throw on cat"
