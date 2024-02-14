@@ -1,0 +1,37 @@
+Title:
+  "PikaGo"
+Game_Type:
+  "CRPG"
+Introduction:
+  "how to get a pika"
+Abstract:
+  "A kind of crpg game"
+System:
+  "◆ system1 with detail
+  ◆ dlc system
+  ◆ shop
+  "
+Competitive:
+  "◆ KataGo"
+Selling_Points:
+  "◆ easy to play<br>
+  ◆ not large 
+  "
+TA:
+  "◆ girls like play<br>
+  ◆ want to play cute
+  "
+World:
+  "fantasy world with many pika"
+Platforms:
+  "◆ PC<br>
+  ◆ mobile<br>
+  ◆ console"
+Concept_Art:
+  "![](url_aaa)"
+Game_Image1:
+  "![](url_bbb)"
+Game_Image2:
+  "![](url_ccc)"
+Play_Demo:
+  "drag a ball to throw on pika"
