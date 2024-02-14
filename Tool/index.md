@@ -113,10 +113,12 @@ function displayInIframe(htmlContent, iframeId) {
 
 ### examples
 #### Save the Cat Beatsheet
-* [beatsheet.html template](https://raw.githubusercontent.com/posetmage/GameDesign/master/Tool/outline/Beat%20Sheet.html)
-* [beatsheet.yml template](https://raw.githubusercontent.com/posetmage/GameDesign/master/Tool/outline/Beat%20Sheet.yml)
+* [beatsheet.html](https://raw.githubusercontent.com/LatticeMage/Jekyll_includes/main/design/Beat%20Sheet.html)
+* [beetsheat.yml](https://raw.githubusercontent.com/aimageguild/GPTs/main/Design/Navi%20-%20Beat%20Sheet%20Writer/Beat%20Sheet.yml)
 * You can use [GPTs - Navi](https://chat.openai.com/g/g-NsZTxNrJJ) to gen this beatsheet.yml
 
+
+Navi will generate and you need to use [Converter](https://posetmage.com/GameDesign/Tool/#header-1) apply on 
 #### tables from [摩訶聖 StM4H4](https://stm4h4.com/downloads/)
 * Proposal
   * [proposal.yml template](https://raw.githubusercontent.com/posetmage/GameDesign/master/Tool/proposal/proposal.yml)
