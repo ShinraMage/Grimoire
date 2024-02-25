@@ -1,5 +1,5 @@
 ---
-layout: notes
+layout: page/note/basic
 ---
 
 # Tools
