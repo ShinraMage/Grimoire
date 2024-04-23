@@ -1,7 +1,3 @@
----
-layout: page/note/basic
----
-
 # Tools
 
 ## Converter 
