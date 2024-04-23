@@ -18,32 +18,24 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: PosetMage
-email: mail@posetmage.com
-url: https://posetmage.com # the base hostname & protocol for your site, e.g. http://example.com
+title: ShinraMage
+email: shinra@posetmage.com
+url: https://shinra.posetmage.com # the base hostname & protocol for your site, e.g. http://example.com
+author: ShinraMage
+repository: ShinraMage/GameDesign
 
-repository: posetmage/GameDesign
-baseurl: /GameDesign # the subpath of your site, e.g. /blog
-description: GameDesign
-
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      layout: "base"
+feed:
+  output: true
 
 social:
   - platform: envelope
-    url: mailto:mail@posetmage.com
-  - platform: linkedin
-    url: https://linkedin.com/in/posetmage
+    url: mailto:shinra@posetmage.com
   - platform: youtube
-    url: https://youtube.com/@posetmage
+    url: https://youtube.com/@shinramage
   - platform: facebook
-    url: https://facebook.com/posetmage
+    url: https://facebook.com/shinramage
   - platform: twitter
-    url: https://twitter.com/posetmage
+    url: https://twitter.com/shinramage
   - platform: line
     url: https://line.me/ti/p/Out6J_7uOq
   - platform: telegram

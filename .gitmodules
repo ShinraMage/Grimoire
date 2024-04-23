@@ -10,5 +10,5 @@
 
 [submodule "_layouts"]
 	path = _layouts
-	url = ../posetmage_layouts.git
+	url = ../shinra_layouts.git
 	branch = main
