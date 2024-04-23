@@ -48,5 +48,5 @@ Sienna
 肌肉緊實發達，但是口罩遮著臉部是不讓人容易認出，衣服包覆全身。內搭服裝造型接近武僧<br>
 頻繁有在做體能訓練， <br>
 腰間兩側有小刀，腿上有煙霧彈、毒針<br>
-<img src="./Sienna.jpg">
+<img src="./Sienna.webp">
 <br>繪師：minu

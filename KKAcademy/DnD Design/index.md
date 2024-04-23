@@ -5,10 +5,10 @@ title: DnD 遊戲設計
 
 <div class="slide">
 
-## 
+## DND
 
-<img src="./Guidelines/dnd.jpg" width="600">
-<img src="./Guidelines/what%20is%20dnd.jpg" width="600">
+<img src="./Guidelines/dnd.webp" width="600">
+<img src="./Guidelines/what%20is%20dnd.webp" width="600">
 
 </div>
 
@@ -16,12 +16,12 @@ title: DnD 遊戲設計
 
 ## 手冊
 
-<img src="https://www.dndbeyond.com/avatars/10435/389/637248131811862290.jpeg" width="250"><img src="https://online.anyflip.com/vrtg/qtfq/files/mobile/1.jpg" width="250"><img src="https://target.scene7.com/is/image/Target/GUEST_08da8349-7a09-45f3-983d-db95205b9b0e" width="250">
+<img src="https://www.dndbeyond.com/avatars/10435/389/637248131811862290.jpeg" width="250"><img src="https://online.anyflip.com/vrtg/qtfq/files/mobile/1.webp" width="250"><img src="https://target.scene7.com/is/image/Target/GUEST_08da8349-7a09-45f3-983d-db95205b9b0e" width="250">
 
-<img src="./Guidelines/card%20example.png" width="300">
-<img src="./Guidelines/monster.png" width="300">
+<img src="./Guidelines/card%20example.webp" width="300">
+<img src="./Guidelines/monster.webp" width="300">
 
-<img src="./Guidelines/wild_sheep.png" width="300">
+<img src="./Guidelines/wild_sheep.webp" width="300">
 
 
 * 舉例
@@ -39,9 +39,9 @@ title: DnD 遊戲設計
 ## 骰子
 
 * xdy
-  * <img src="./Guidelines/3d3.png">
-  * <img src="./Guidelines/3d7plus5.png">
-* d20 <img src="https://pawleystudios.com/wp-content/uploads/2020/07/d20-dice-01.png" width="64">
+  * <img src="./Guidelines/3d3.webp">
+  * <img src="./Guidelines/3d7plus5.webp">
+* d20 <img src="https://pawleystudios.com/wp-content/uploads/2020/07/d20-dice-01.webp" width="64">
   * 20 完全成功
   * 1 完全失敗
 * DC(difficult class)
@@ -59,7 +59,7 @@ title: DnD 遊戲設計
 * [語言](https://github.com/OldManUmby/DND.SRD.Wiki/blob/master/Characterizations/Languages.md)、[陣營](https://github.com/OldManUmby/DND.SRD.Wiki/blob/master/Characterizations/Alignment.md)
 * [shop](https://github.com/kwmorris/DnD/blob/master/5e/D%26D%20Shop%20Catalog%2C%20V-1.8.pdf)
 
-<img src="./Guidelines/char%20card.png">
+<img src="./Guidelines/char%20card.webp">
 
 
 </div>
@@ -127,7 +127,7 @@ title: DnD 遊戲設計
   * Markdown
   * Obsidian, Hackmd.io .... 
 
-<img src="./Guidelines/markdown.png" width="600">
+<img src="./Guidelines/markdown.webp" width="600">
 
 </div>
 
@@ -141,9 +141,9 @@ title: DnD 遊戲設計
   * [tile map editor](https://www.mapeditor.org/)
   * unity, godot: tilemap export to image
 
-<img src="./Guidelines/opengameart.png" width="600">
+<img src="./Guidelines/opengameart.webp" width="600">
 
-<img src="https://www.mapeditor.org/img/screenshot-front.png" width="600">
+<img src="https://www.mapeditor.org/img/screenshot-front.webp" width="600">
 
 </div>
 

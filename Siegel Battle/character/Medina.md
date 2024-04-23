@@ -51,5 +51,5 @@ Medina
 長髮 服裝接近忍者但是有大量迷彩 <br>
 全身的裝備主要是輕裝為主，方便快速移動 <br>
 配戴項鍊，由於是要潛行，所以是深色不反光的材質十字架<br>
-<img src="./Medina.jpg">
+<img src="./Medina.webp">
 <br>繪師：minu

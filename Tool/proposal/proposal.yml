@@ -41,13 +41,13 @@ Competitive:
   ◆ 天結<br>
   "
 Concept_Art:
-  "<img src=\"./origin_reference.png\">"
+  "<img src=\"./origin_reference.webp\">"
 
 Game_Image1:
-  "<img src=\"./first_shot.png\">"
+  "<img src=\"./first_shot.webp\">"
 
 Game_Image2:
-  "<img src=\"./first_shot_edit.png\">"
+  "<img src=\"./first_shot_edit.webp\">"
 
 Play_Demo:
   "戰鬥前玩家需要配置隊伍成員中不同種族的比率。戰鬥開始後，雙方會派各自的兵力配置去戰鬥,在區域內有不同種族行動會觸發讓行動困難的Entropy值。"
