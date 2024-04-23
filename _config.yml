@@ -27,6 +27,14 @@ repository: ShinraMage/GameDesign
 feed:
   output: true
 
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "page/note/basic"
+
+
 social:
   - platform: envelope
     url: mailto:shinra@posetmage.com
