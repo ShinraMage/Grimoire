@@ -1,11 +1,10 @@
 ---
 layout: page/note/slides
 title: DnD 遊戲設計
+
 ---
 
 <div class="slide">
-
-## DND
 
 <img src="./Guidelines/dnd.webp" width="600">
 <img src="./Guidelines/what%20is%20dnd.webp" width="600">
@@ -16,7 +15,7 @@ title: DnD 遊戲設計
 
 ## 手冊
 
-<img src="https://www.dndbeyond.com/avatars/10435/389/637248131811862290.jpeg" width="250"><img src="https://online.anyflip.com/vrtg/qtfq/files/mobile/1.webp" width="250"><img src="https://target.scene7.com/is/image/Target/GUEST_08da8349-7a09-45f3-983d-db95205b9b0e" width="250">
+<img src="https://www.dndbeyond.com/avatars/10435/389/637248131811862290.jpeg" width="250"><img src="https://online.anyflip.com/vrtg/qtfq/files/mobile/1.jpg" width="250"><img src="https://target.scene7.com/is/image/Target/GUEST_08da8349-7a09-45f3-983d-db95205b9b0e" width="250">
 
 <img src="./Guidelines/card%20example.webp" width="300">
 <img src="./Guidelines/monster.webp" width="300">
@@ -41,7 +40,7 @@ title: DnD 遊戲設計
 * xdy
   * <img src="./Guidelines/3d3.webp">
   * <img src="./Guidelines/3d7plus5.webp">
-* d20 <img src="https://pawleystudios.com/wp-content/uploads/2020/07/d20-dice-01.webp" width="64">
+* d20 <img src="https://pawleystudios.com/wp-content/uploads/2020/07/d20-dice-01.png" width="64">
   * 20 完全成功
   * 1 完全失敗
 * DC(difficult class)
