@@ -32,7 +32,7 @@ defaults:
     scope:
       path: ""
     values:
-      layout: "page/note/slides"
+      layout: "page/note/basic"
 
 kramdown:
   parse_block_html: true
