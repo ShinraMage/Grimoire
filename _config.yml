@@ -23,6 +23,7 @@ email: shinra@posetmage.com
 url: https://shinra.posetmage.com # the base hostname & protocol for your site, e.g. http://example.com
 author: ShinraMage
 repository: ShinraMage/GameDesign
+baseurl: /GameDesign
 
 feed:
   output: true
