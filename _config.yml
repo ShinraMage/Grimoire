@@ -34,9 +34,6 @@ defaults:
     values:
       layout: "page/note/slides"
 
-exclude:
-  - "*.mm.md"
-
 kramdown:
   parse_block_html: true
   
