@@ -58,7 +58,9 @@ A處XX色為
   }
 </style>
 
-## 哪些是X色系
+## Question
+
+哪些是X色系
 
 <div id="quizContainer"></div>
 
