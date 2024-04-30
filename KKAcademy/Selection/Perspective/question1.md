@@ -1,59 +1,48 @@
-# 選擇題 - 構成，簡易篇
+# 選擇題 - 透視，簡易篇
 
 ## Question
-構成中，經常使用哪些動態線規劃?(可多選)
+下圖是幾個消失點
 
-* (A) 卍字型
-* (B) S字型
-* (C) Z字型
-* (D) H字型
+![](https://i.pinimg.com/564x/83/d9/6f/83d96fc1766f5dea6f3efc8d75bedea2.jpg)
 
-Ans: B or C
+* (A) 1
+* (B) 2
+* (C) 3
+* (D) 4
 
-## Question
-
-在構圖中，哪一種方法能有效地創造動感？
-
-* (A) 大小不均、高低錯落
-* (B) 均勻分布的元素
-* (C) 大小相同的物件
-* (D) 整齊一致的排列
-
-Ans: A
 
 ## Question
 
-CSI概括法中，箭頭所指位置是哪種線條
+第x-y個方塊是幾個消失點
 
-![](./CSI_I.webp)
 
-* (A) I
-* (B) S
-* (C) C
-* (D) D
+![](./十六格.webp)
 
-Ans: A
 
-## Question
-
-CSI概括法中，箭頭所指位置是哪種線條
-
-![](./CSI_C.webp)
-
-* (A) I
-* (B) S
-* (C) C
-* (D) B
-
-Ans: C
+* (A) 1
+* (B) 2
+* (C) 3
+* (D) 4
 
 ## Question
 
-CSI概括法中，想要表達比較剛強會用哪種線條去概括?
+第x-y個方塊是
 
-* (A) C, I
-* (B) S, C
-* (C) X, Y
-* (D) Z, B
+![](./all_four.webp)
 
-Ans: A
+
+* (A) 俯視
+* (B) 仰視
+* (C) 平視
+* (D) 近視
+
+## Question
+
+在三視圖中 哪個是
+
+![](https://www.researchgate.net/profile/Akash-Trivedi-2/publication/281148227/figure/fig5/AS:553297715384320@1508927863295/Three-view-drawings-of-the-actual-aircraft.png)
+
+* (A) 前視圖, 主視圖
+* (B) 俯視圖
+* (C) 左視圖
+* (D) 45度角![](../Composition/CSI_C.webp)

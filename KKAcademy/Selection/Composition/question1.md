@@ -1,48 +1,61 @@
-# 選擇題 - 透視，簡易篇
+# 選擇題 - 構成，簡易篇
 
 ## Question
-下圖是幾個消失點
+構成中，經常使用哪些動態線規劃?(可多選)
 
-![](https://i.pinimg.com/564x/83/d9/6f/83d96fc1766f5dea6f3efc8d75bedea2.jpg)
+* (A) 卍字型
+* (B) S字型
+* (C) Z字型
+* (D) H字型
 
-* (A) 1
-* (B) 2
-* (C) 3
-* (D) 4
-
-
-## Question
-
-第x-y個方塊是幾個消失點
-
-
-![](./十六格.webp)
-
-
-* (A) 1
-* (B) 2
-* (C) 3
-* (D) 4
+Ans: B or C
 
 ## Question
 
-第x-y個方塊是
+在構圖中，哪一種方法能有效地創造動感？
 
-![](./all_four.webp)
+* (A) 大小不均、高低錯落
+* (B) 均勻分布的元素
+* (C) 大小相同的物件
+* (D) 整齊一致的排列
 
-
-* (A) 俯視
-* (B) 仰視
-* (C) 平視
-* (D) 近視
+Ans: A
 
 ## Question
 
-在三視圖中 哪個是
+CSI概括法中，箭頭所指位置是哪種線條
 
-![](https://www.researchgate.net/profile/Akash-Trivedi-2/publication/281148227/figure/fig5/AS:553297715384320@1508927863295/Three-view-drawings-of-the-actual-aircraft.png)
+![](./CSI_I.webp)
 
-* (A) 前視圖, 主視圖
-* (B) 俯視圖
-* (C) 左視圖
-* (D) 45度角
+* (A) I
+* (B) S
+* (C) C
+* (D) D
+
+Ans: A
+
+## Question
+
+CSI概括法中，箭頭所指位置是哪種線條
+
+![](./CSI_C.webp)
+
+* (A) I
+* (B) S
+* (C) C
+* (D) B
+
+Ans: C
+
+## Question
+
+CSI概括法中，想要表達比較剛強會用哪種線條去概括?
+
+* (A) C, I
+* (B) S, C
+* (C) X, Y
+* (D) Z, B
+
+Ans: A
+
+
