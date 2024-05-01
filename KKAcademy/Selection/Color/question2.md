@@ -40,3 +40,15 @@
 * (B) A處是低飽和高亮度 & B處是高飽和低亮度
 * (C) A處是低飽和高亮度 & B處是高飽和高亮度
 * (D) A處是高飽和高亮度 & B處是高飽和低亮度
+
+
+## Question
+
+某個項目是哪種光
+
+![](./SSS.webp)
+
+* (A) 鏡面反射 (Specular reflection)
+* (B) 漫反射 (Diffuse reflection)
+* (C) SSS 次表面散射(Subsurface scattering)
+* (D) 直射光(Direct Light)
