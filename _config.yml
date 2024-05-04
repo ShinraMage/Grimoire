@@ -41,22 +41,6 @@ collections:
   directories:
     output: true
 
-social:
-  - platform: envelope
-    url: mailto:shinra@posetmage.com
-  - platform: youtube
-    url: https://youtube.com/@shinramage
-  - platform: facebook
-    url: https://facebook.com/shinramage
-  - platform: twitter
-    url: https://twitter.com/shinramage
-  - platform: line
-    url: https://line.me/ti/p/Out6J_7uOq
-  - platform: telegram
-    url: https://t.me/posetmage
-  - platform: twitch
-    url: https://twitch.tv/posetmage
-
 # Build settings
 remote_theme: jekyll/minima
 
