@@ -2,13 +2,12 @@
 
 ## Question
 
-KK魔法學院助教和K大繪圖通常使用哪個色彩空間作為思考?
+KK魔法學院助教和K大繪圖通常使用哪個色彩空間體系作為思考?
 
 * (A) YUV, YCbCr
 * (B) RGB, CMYK
 * (C) CIELAB, XYZ
-* (D) HSB, HSV
-
+* (D) HSB, HSV, HLS
 
 
 ## Question
