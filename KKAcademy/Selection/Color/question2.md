@@ -52,3 +52,17 @@
 * (B) 漫反射 (Diffuse reflection)
 * (C) SSS 次表面散射(Subsurface scattering)
 * (D) 直射光(Direct Light)
+
+## Question
+
+X是?
+
+![](./complex.webp)
+
+* (A) 線搞
+* (B) 固有色
+* (C) AO
+* (D) 二分
+* (E) 環境光
+* (F) SSS+(C)+(D)+(E)
+
