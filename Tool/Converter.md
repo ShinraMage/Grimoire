@@ -57,7 +57,8 @@ document.querySelector('.upload-yml').addEventListener('click', function() {
         const reader = new FileReader();
         reader.onload = function(e) {
             const ymlContent = e.target.result;
-            const convertedHtml = convertYamlContentToHtml(ymlContent, templateHtmlContent);
+            const parsedContent = jsyaml.load(ymlContent);
+            const convertedHtml = convertYamlContentToHtml(parsedContent, templateHtmlContent);
             displayInIframe(convertedHtml, targetIframeID); // Update iframe with merged content
         };
         
@@ -80,17 +81,14 @@ document.querySelector('.download-result').addEventListener('click', function() 
     document.body.removeChild(link);
 });
 
-function convertYamlContentToHtml(yamlContent, templateHtml) {
-    // Parse the YAML content into a JavaScript object
-    const parsedContent = jsyaml.load(yamlContent);
-
+function convertYamlContentToHtml(parsedContent, templateHtml) {
     // Load the template HTML
     let htmlOutput = templateHtml;
 
-    // Replace placeholders in the template with actual content from the YAML file
+    // Replace placeholders in the template with actual content from the parsed YAML content
     Object.entries(parsedContent).forEach(([key, value]) => {
         // Convert new line characters to <br> tags
-        const formattedValue = value.toString().replace(/\n/g, '<br>');
+        const formattedValue = typeof value === 'string' ? value.replace(/\n/g, '<br>') : value;
         // Create a regex to find the placeholder in the HTML template
         const regex = new RegExp(`\\{\\{${key}\\}\\}`, 'g');
         // Replace the placeholder with the actual content
@@ -108,6 +106,8 @@ function displayInIframe(htmlContent, iframeId) {
     targetIframe.src = url;
 }
 </script>
+
+
 
 ## examples
 #### Save the Cat Beatsheet

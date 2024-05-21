@@ -18,13 +18,13 @@ Abstract:
   "戰棋類遊戲,類似 DnD 版的魔喚精靈"
 
 System:
-  "◆ 回合制戰棋<br>
-  ◆ 場地有狀態Entropy<br>
-  ◆ 不同種族策略取捨<br>
+  "◆ 回合制戰棋
+  ◆ 場地有狀態Entropy
+  ◆ 不同種族策略取捨
   "
 
 TA_Platform:
-  "◆ 喜歡幻想世界的策略型玩家<br>
+  "◆ 喜歡幻想世界的策略型玩家
   ◆ PC, Console, Mobile
   "
 
@@ -32,13 +32,13 @@ Selling_Points:
   "遊戲的賣點在Entropy機制。 Entropy區域內不同總族越多,行動懲罰越重"
 
 World:
-  "日系萌系JRPG風格的劍與魔法世界，有著戰士、法師、典型的精靈、矮人。<br>
+  "日系萌系JRPG風格的劍與魔法世界，有著戰士、法師、典型的精靈、矮人。
 世界最大的法則是Entropy，影響著世界的運作，甚至平行世界之間也是由Entropy牆所阻隔。"
 
 Competitive:
-  "◆ 魔喚精靈<br>
-  ◆ 皇家騎士團<br>
-  ◆ 天結<br>
+  "◆ 魔喚精靈
+  ◆ 皇家騎士團
+  ◆ 天結
   "
 Concept_Art:
   "<img src=\"./origin_reference.webp\">"
