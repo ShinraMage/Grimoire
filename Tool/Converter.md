@@ -12,8 +12,6 @@ upload yml file as content and replace {{}} in html
 <iframe id="OutPreview" width="100%" height="600px" style="background-color: white;"></iframe>
 <br><br>
 
-<script src="https://cdn.jsdelivr.net/npm/js-yaml@4/dist/js-yaml.min.js"></script>
-
 <script>
 let templateHtmlContent = '';
 
@@ -30,6 +28,7 @@ document.querySelector('.upload-template').addEventListener('click', function() 
         const reader = new FileReader();
         reader.onload = function(e) {
             templateHtmlContent = e.target.result;
+            console.log("Template HTML content loaded:", templateHtmlContent);
             displayInIframe(templateHtmlContent, targetIframeID); // Display uploaded template in iframe
         };
         
@@ -56,9 +55,15 @@ document.querySelector('.upload-yml').addEventListener('click', function() {
         
         const reader = new FileReader();
         reader.onload = function(e) {
-            const ymlContent = e.target.result;
-            const parsedContent = jsyaml.load(ymlContent);
+            let ymlContent = e.target.result;
+            console.log("Original YAML content:", ymlContent);
+
+            // Custom parsing logic
+            const parsedContent = parseYamlContent(ymlContent);
+            console.log("Parsed custom YAML content:", parsedContent);
+
             const convertedHtml = convertYamlContentToHtml(parsedContent, templateHtmlContent);
+            console.log("Converted HTML content:", convertedHtml);
             displayInIframe(convertedHtml, targetIframeID); // Update iframe with merged content
         };
         
@@ -81,18 +86,52 @@ document.querySelector('.download-result').addEventListener('click', function() 
     document.body.removeChild(link);
 });
 
+function parseYamlContent(ymlContent) {
+    const lines = ymlContent.split('\n');
+    const result = {};
+    let currentKey = null;
+    let currentValue = [];
+
+    lines.forEach(line => {
+        if (line.trim() === '') {
+            return;
+        }
+
+        const [key, ...value] = line.split(':');
+        if (value.length > 0) {
+            if (currentKey) {
+                result[currentKey] = currentValue.join('<br>');
+            }
+            currentKey = key.trim();
+            currentValue = [value.join(':').trim()];
+        } else {
+            currentValue.push(line.trim());
+        }
+    });
+
+    if (currentKey) {
+        result[currentKey] = currentValue.join('<br>');
+    }
+
+    return result;
+}
+
 function convertYamlContentToHtml(parsedContent, templateHtml) {
     // Load the template HTML
     let htmlOutput = templateHtml;
 
     // Replace placeholders in the template with actual content from the parsed YAML content
     Object.entries(parsedContent).forEach(([key, value]) => {
-        // Convert new line characters to <br> tags
-        const formattedValue = typeof value === 'string' ? value.replace(/\n/g, '<br>') : value;
+        // Remove first and last double quotes if present
+        value = value.substring(1, value.length - 1);
+        if (value.startsWith('br>')) {
+            value = value.substring(4);
+        }
+
         // Create a regex to find the placeholder in the HTML template
         const regex = new RegExp(`\\{\\{${key}\\}\\}`, 'g');
         // Replace the placeholder with the actual content
-        htmlOutput = htmlOutput.replace(regex, formattedValue);
+        htmlOutput = htmlOutput.replace(regex, value);
     });
 
     // Return the modified HTML, ready for display or download
@@ -106,6 +145,8 @@ function displayInIframe(htmlContent, iframeId) {
     targetIframe.src = url;
 }
 </script>
+
+
 
 
 
