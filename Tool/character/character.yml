@@ -25,8 +25,8 @@ Another_Perspective:
 Brief_History:
   "不知從哪出現的謎之人物，也沒有之前的記憶，不在乎任何人的請求，召喚魔物攻打大陸單純是覺得太無聊了找一些事情做"
 References:
-  "發想 - 鍊金系列 - (親女兒)帕梅拉<br>
-  講話風格：果青 - 雪之下雪乃<br>
+  "發想 - 鍊金系列 - (親女兒)帕梅拉
+  講話風格：果青 - 雪之下雪乃
   外觀：天結 -ロズリーヌ・フラン
   "
 Concept:
@@ -40,11 +40,11 @@ Stage1_History:
 Stage1_Personality:
   "想要討好大家"
 Stage1_BigFive:
-  "openness(20%)<br>
-  efficient(20%)<br>
-  extraversion(90%)<br>
-  rational(20%)<br>
-  nervous(20%)<br>
+  "openness(20%)
+  efficient(20%)
+  extraversion(90%)
+  rational(20%)
+  nervous(20%)
   "
 Stage1_Faith:
   "未來會更好"
@@ -58,11 +58,11 @@ Stage2_History:
 Stage2_Personality:
   "警戒心態"
 Stage2_BigFive:
-  "openness(20%)<br>
-  efficient(80%)<br>
-  extraversion(30%)<br>
-  rational(60%)<br>
-  nervous(80%)<br>
+  "openness(20%)
+  efficient(80%)
+  extraversion(30%)
+  rational(60%)
+  nervous(80%)
   "
 Stage2_Faith:
   "不希望明天到來"
@@ -76,11 +76,11 @@ Stage3_History:
 Stage3_Personality:
   "積極拯救這個世界"
 Stage3_BigFive:
-  "openness(20%)<br>
-  efficient(80%)<br>
-  extraversion(90%)<br>
-  rational(50%)<br>
-  nervous(20%)<br>
+  "openness(20%)
+  efficient(80%)
+  extraversion(90%)
+  rational(50%)
+  nervous(20%)
   "
 Stage3_Faith:
   "不同種族可以友好相處"
