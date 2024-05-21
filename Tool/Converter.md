@@ -15,6 +15,8 @@ upload yml file as content and replace {{}} in html
 <script src="https://cdn.jsdelivr.net/npm/js-yaml@4/dist/js-yaml.min.js"></script>
 
 <script>
+let templateHtmlContent = '';
+
 document.querySelector('.upload-template').addEventListener('click', function() {
     const targetIframeID = this.getAttribute('data-target-iframe');
     const fileInput = document.createElement('input');
@@ -87,11 +89,12 @@ function convertYamlContentToHtml(yamlContent, templateHtml) {
 
     // Replace placeholders in the template with actual content from the YAML file
     Object.entries(parsedContent).forEach(([key, value]) => {
-        // For simplicity, we assume value is directly a string or can be represented as one
+        // Convert new line characters to <br> tags
+        const formattedValue = value.toString().replace(/\n/g, '<br>');
         // Create a regex to find the placeholder in the HTML template
         const regex = new RegExp(`\\{\\{${key}\\}\\}`, 'g');
         // Replace the placeholder with the actual content
-        htmlOutput = htmlOutput.replace(regex, value.toString());
+        htmlOutput = htmlOutput.replace(regex, formattedValue);
     });
 
     // Return the modified HTML, ready for display or download
@@ -125,3 +128,4 @@ function displayInIframe(htmlContent, iframeId) {
   * [Char_Basic.html template](https://raw.githubusercontent.com/posetmage/GameDesign/master/Tool/character/basic.html)
   * [Char_Advance.html template](https://raw.githubusercontent.com/posetmage/GameDesign/master/Tool/character/advance.html)
   * You can use [GPTs - Scarlett](https://chat.openai.com/g/g-LD06QK4Bt) to gen Character.yml 
+
