@@ -9,6 +9,7 @@ upload yml file as content and replace {{}} in html
 <button class="upload-template" data-target-iframe="OutPreview">Upload template.html</button>
 <button class="upload-yml" data-target-iframe="OutPreview">Upload .yml</button>
 <button class="download-result" data-for="OutPreview">outcome.html</button>
+<button class="a4-print" data-for="OutPreview">Print PDF</button>
 <iframe id="OutPreview" width="100%" height="600px" style="background-color: white;"></iframe>
 <br><br>
 
@@ -86,6 +87,14 @@ document.querySelector('.download-result').addEventListener('click', function() 
     document.body.removeChild(link);
 });
 
+document.querySelector('.a4-print').addEventListener('click', function() {
+    const iframeId = this.getAttribute('data-for');
+    const iframe = document.getElementById(iframeId);
+    injectPrintStyles(iframe);
+    iframe.focus();
+    iframe.contentWindow.print();
+});
+
 function parseYamlContent(ymlContent) {
     const lines = ymlContent.split('\n');
     const result = {};
@@ -144,7 +153,22 @@ function displayInIframe(htmlContent, iframeId) {
     const url = URL.createObjectURL(blob);
     targetIframe.src = url;
 }
+
+function injectPrintStyles(iframe) {
+    const printStyle = `
+        <style>
+            * {
+                color: black !important;
+                background: white !important;
+            }
+        </style>
+    `;
+    const iframeDoc = iframe.contentDocument || iframe.contentWindow.document;
+    const head = iframeDoc.getElementsByTagName('head')[0];
+    head.insertAdjacentHTML('beforeend', printStyle);
+}
 </script>
+
 
 
 
