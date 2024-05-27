@@ -9,6 +9,7 @@ KK魔法學院助教和K大繪圖通常使用哪個色彩空間體系作為思�
 * (C) CIELAB, XYZ
 * (D) HSB, HSV, HLS
 
+ANS: D
 
 ## Question
 
@@ -16,15 +17,25 @@ A處XX色為
 
 ![](./color_ring.webp)
 
-* 相近色
-* 互補色
-* 相近色
+* (B) 相近色
+* (C) 互補色
+* (D) 相近色
 
 ## Question
 ![](./三大面五大調.webp)
 
 哪個位置是XXXX?
 
+* 三大面
+  * (B) 亮面
+  * (G) 灰面
+  * (C) 暗面
+* 五大調
+  * (A) 高光
+  * (D) 明暗交界線
+  * (F) 反光
+  * (E) 投影
+  
 <style>
   .option-container {
     margin-bottom: 20px;
@@ -82,3 +93,4 @@ A處XX色為
   });
 </script>
 
+A冷色系 B暖色系 D灰階

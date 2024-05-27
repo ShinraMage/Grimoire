@@ -6,9 +6,9 @@
 
 哪個進程是XXX?
 
-* 二分
-* 打光
-* AO(Ambient Occlusion)
+* (A) 二分
+* (B) 打光
+* (C) AO(Ambient Occlusion)
 
 ## Question
 
@@ -21,6 +21,8 @@
 * (C) A處是3~4級邊 & B處是 3~4級邊
 * (D) A處是1~2級邊 & B處是 3~4級邊
 
+Ans: B
+
 ## Question
 ![](./藍色%20飽和度.webp)
 
@@ -30,6 +32,8 @@
 * (B) A處是低飽和高亮度 & B處是高飽和低亮度
 * (C) A處是低飽和高亮度 & B處是高飽和中高亮度
 * (D) A處是高飽和高亮度 & B處是高飽和低亮度
+
+Ans: C
 
 ## Question
 ![](./黃色%20飽和度.webp)
@@ -41,6 +45,7 @@
 * (C) A處是低飽和高亮度 & B處是高飽和高亮度
 * (D) A處是高飽和高亮度 & B處是高飽和低亮度
 
+Ans: C
 
 ## Question
 
@@ -48,10 +53,10 @@
 
 ![](./SSS.webp)
 
-* 鏡面反射 (Specular reflection)
-* 漫反射 (Diffuse reflection)
-* SSS 次表面散射(Subsurface scattering)
-* 直射光(Direct Light)
+* (A) 鏡面反射 (Specular reflection)
+* (B) 漫反射 (Diffuse reflection)
+* (C) SSS 次表面散射(Subsurface scattering)
+* (D) 直射光(Direct Light)
 
 ## Question
 
@@ -59,10 +64,11 @@ X是?
 
 ![](./complex.webp)
 
-* 線搞
-* 固有色
-* AO
-* 二分
-* 環境光
-* 素描+SSS
-* 高光 + 細化
+* (A) 線搞
+* (B) 固有色
+* (C) AO
+* (D) 二分
+* (E) 環境光
+* (F) = SSS+(C)+(D)+(E)
+* (G) = (F) + (B)
+* (H) = (G) + 高光 + 細化
