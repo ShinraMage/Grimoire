@@ -1,3 +1,7 @@
+---
+layout: base
+---
+
 # Game Design
 
 ## Game Design Documents
