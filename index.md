@@ -4,11 +4,10 @@ layout: base
 
 # Game Design
 
-## [Plan Documents](./Proposal/)
+## [Plan Design Documents](./Proposal/)
 
-## [Game Design Tools](./Tool/)
-
-## [Game Analysis](./Analysis/)
-
+## [Competitive Analysis](./Analysis/)
 
 ## [Novels](./Novel/)
+
+## [Game Design Tools](./Tool/)

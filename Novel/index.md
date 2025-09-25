@@ -1,5 +1,11 @@
 ---
-layout: page/note/directory
+layout: base
 ---
 
-# Novel
+# Novels
+
+### [Codex](./Codex/)
+古老的手抄本
+
+### [Scatterbook](./Scatterbook/)
+雜談
