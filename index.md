@@ -8,6 +8,7 @@ layout: base
 
 ## [Competitive Analysis](./Analysis/)
 
-## [Novels](./Novel/)
+## [Codex](./Codex/)
+  * Novels, Setting book
 
 ## [Game Design Tools](./Tool/)

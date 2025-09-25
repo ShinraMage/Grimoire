@@ -30,9 +30,15 @@ repository: ShinraMage/GameDesign
 defaults:
   -
     scope:
+      path: "Codex"
+    values:
+      layout: "page/novel/reading"
+  -
+    scope:
       path: ""
     values:
       layout: "page/note/basic"
+
 
 kramdown:
   parse_block_html: true

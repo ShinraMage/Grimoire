@@ -1,7 +1,7 @@
 # Converter 
 
 ```
-upload yml file as content and replace {{}} in html
+upload yml file as content and replace \{\{\}\} in html
 ```
 
 ## Online Converter
