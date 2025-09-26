@@ -4,13 +4,13 @@ layout: base
 
 # Game Design
 
-## [Grimoire](./Grimoire/)
+## [魔導書](./Grimoire/)
   * Documents, Plans, Designs
 
-## [Codex](./Codex/)
+## [古写本](./Codex/)
   * Novels, Setting book
 
-## [Observer](./Observer/)
+## [観察者](./Observer/)
   * Competitive Analysis
 
 ## [Game Design Tools](./Tool/)
