@@ -42,7 +42,7 @@ This design focuses more on puzzle and strategy elements, aiming to provide a ce
 
 備註：將格式文字轉圖表使用MarkMap輸出html如下
 
-<iframe src="./output.html" width="100%" height="500px" style="background-color: white;"></iframe>
+<iframe src="./markmap" width="100%" height="500px"></iframe>
 
 ## MarkMap
 參考[MarkMap](https://markmap.js.org/)

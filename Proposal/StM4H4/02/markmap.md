@@ -1,3 +1,9 @@
+---
+layout: page/note/markmap
+title: Entropy Chronicles - mindmap
+---
+
+
 # Entropy Chronicles
 
 ## Overview

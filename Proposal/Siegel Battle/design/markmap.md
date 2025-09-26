@@ -1,7 +1,13 @@
+---
+layout: page/note/markmap
+title: 西格爾戰記 - mindmap
+---
+
 # 西格爾戰記
 
 ## 緣由
-- 想要套用Entropy 機制
+* 想要套用Entropy 機制
+
 ## 類型
 * TA
   * 喜歡策略遊戲的玩家

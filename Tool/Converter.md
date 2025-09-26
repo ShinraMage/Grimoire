@@ -1,9 +1,8 @@
 # Converter 
 
 ```
-upload yml file as content and replace \{\{\}\} in html
+upload yml file as content and replace {{ }} in html
 ```
-
 ## Online Converter
 
 <button class="upload-template" data-target-iframe="OutPreview">Upload template.html</button>
@@ -14,6 +13,7 @@ upload yml file as content and replace \{\{\}\} in html
 <br><br>
 
 <script src="https://cdn.jsdelivr.net/npm/js-yaml@4/dist/js-yaml.min.js"></script>
+<script src="https://posetmage.com/cdn/js/convertYamlToHtml.js"></script>
 
 <script>
     let templateHtmlContent = '';
@@ -58,8 +58,15 @@ upload yml file as content and replace \{\{\}\} in html
             const reader = new FileReader();
             reader.onload = function(e) {
                 const ymlContent = e.target.result;
-                const convertedHtml = convertYamlContentToHtml(ymlContent, templateHtmlContent);
-                displayInIframe(convertedHtml, targetIframeID); // Update iframe with merged content
+                let convertedHtml;
+                try {
+                    // Use the imported convertYamlToHtml function
+                    convertedHtml = convertYamlToHtml(ymlContent, templateHtmlContent);
+                    displayInIframe(convertedHtml, targetIframeID); // Update iframe with merged content
+                } catch (error) {
+                    console.error("Conversion Error:", error);
+                    alert(`Error converting YAML to HTML: ${error.message}`);
+                }
             };
             
             reader.readAsText(file);
@@ -80,33 +87,6 @@ upload yml file as content and replace \{\{\}\} in html
         link.click();
         document.body.removeChild(link);
     });
-
-    function convertYamlContentToHtml(yamlContent, templateHtml) {
-        // Parse the YAML content into a JavaScript object
-        const parsedContent = jsyaml.load(yamlContent);
-
-        // Load the template HTML
-        let htmlOutput = templateHtml;
-
-        // Replace placeholders in the template with actual content from the YAML file
-        Object.entries(parsedContent).forEach(([key, value]) => {
-            let replacementValue;
-            if (Array.isArray(value)) {
-                // Convert array to a HTML list
-                replacementValue = '<ul>' + value.map(item => `<li>${item}</li>`).join('') + '</ul>';
-            } else {
-                // For simplicity, we assume value is directly a string or can be represented as one
-                replacementValue = value.toString().replace(/\n/g, '<br>');
-            }
-            // Create a regex to find the placeholder in the HTML template
-            const regex = new RegExp(`\\{\\{${key}\\}\\}`, 'g');
-            // Replace the placeholder with the actual content
-            htmlOutput = htmlOutput.replace(regex, replacementValue);
-        });
-
-        // Return the modified HTML, ready for display or download
-        return htmlOutput;
-    }
 
     function displayInIframe(htmlContent, iframeId) {
         const targetIframe = document.getElementById(iframeId);
@@ -139,9 +119,8 @@ upload yml file as content and replace \{\{\}\} in html
 
 ## examples
 #### Save the Cat Beatsheet
-* [beetsheat.html](https://raw.githubusercontent.com/aimageguild/GPTs/main/Design/Navi%20-%20Beat%20Sheet%20Writer/Beat%20Sheet.html)
-* [beetsheat.yml](https://raw.githubusercontent.com/aimageguild/GPTs/main/Design/Navi%20-%20Beat%20Sheet%20Writer/Beat%20Sheet.yml)
-* You can use [GPTs - Navi](https://chat.openai.com/g/g-NsZTxNrJJ) to gen this beatsheet.yml
+* [beatsheet.html](https://raw.githubusercontent.com/aimageguild/GPTs/main/Design/Navi%20-%20Beat%20Sheet%20Writer/Beat%20Sheet.html)
+* [beatsheet.yml](https://raw.githubusercontent.com/aimageguild/GPTs/main/Design/Navi%20-%20Beat%20Sheet%20Writer/Beat%20Sheet.yml)
 
 #### tables from [摩訶聖 StM4H4](https://stm4h4.com/downloads/)
 * Proposal
