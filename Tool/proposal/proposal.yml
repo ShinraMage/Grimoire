@@ -25,8 +25,8 @@ Competitive:
   - "皇家騎士團"
   - "天結"
 
-Concept_Art: "<img src=\"./origin_reference.webp\">"
-Game_Image1: "<img src=\"./first_shot.webp\">"
-Game_Image2: "<img src=\"./first_shot_edit.webp\">"
+Concept_Art: "<img src=https://shinra.posetmage.com/GameDesign/Proposal/Siegel%20Battle/design/concept.webp>"
+Game_Image1: "<img src=https://shinra.posetmage.com/GameDesign/Proposal/Siegel%20Battle/design/first.webp>"
+Game_Image2: "<img src=https://shinra.posetmage.com/GameDesign/Proposal/Siegel%20Battle/design/second.webp>"
 
 Play_Demo: "戰鬥前玩家需要配置隊伍成員中不同種族的比率。戰鬥開始後，雙方會派各自的兵力配置去戰鬥,在區域內有不同種族行動會觸發讓行動困難的 Entropy 值。"

@@ -100,14 +100,14 @@ upload yml file as content and replace {{ }} in html
 
 #### tables from [摩訶聖 StM4H4](https://stm4h4.com/downloads/)
 * Proposal
-  * [proposal.yml template](https://raw.githubusercontent.com/posetmage/GameDesign/master/Tool/proposal/proposal.yml)
-  * [proposal.html template](https://raw.githubusercontent.com/posetmage/GameDesign/master/Tool/proposal/proposal.html)
+  * [proposal.yml template](./proposal/proposal.yml)
+  * [proposal.html template](./proposal/proposal.html)
   * You can use [GPTs - Vixen](https://chat.openai.com/g/g-oR0tADta6) to gen proposal.yml
 * Outline
-  * [Outline.yml template](https://raw.githubusercontent.com/posetmage/GameDesign/master/Tool/outline/outline.yml)
-  * [Outline.html template](https://raw.githubusercontent.com/posetmage/GameDesign/master/Tool/outline/outline.html)
+  * [Outline.yml template](./outline/outline.yml)
+  * [Outline.html template](./outline/outline.html)
 * Character Card
-  * [Character.yml template](https://raw.githubusercontent.com/posetmage/GameDesign/master/Tool/character/character.yml)
-  * [Char_Basic.html template](https://raw.githubusercontent.com/posetmage/GameDesign/master/Tool/character/basic.html)
-  * [Char_Advance.html template](https://raw.githubusercontent.com/posetmage/GameDesign/master/Tool/character/advance.html)
+  * [Character.yml template](./character/character.yml)
+  * [Char_Basic.html template](./character/basic.html)
+  * [Char_Advance.html template](./character/advance.html)
   * You can use [GPTs - Scarlett](https://chat.openai.com/g/g-LD06QK4Bt) to gen Character.yml

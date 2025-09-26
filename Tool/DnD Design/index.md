@@ -1,10 +1,11 @@
 ---
 layout: page/note/slides
 title: DnD 遊戲設計
-
 ---
 
 <div class="slide">
+
+## DND簡介
 
 <img src="./Guidelines/dnd.webp" width="600">
 <img src="./Guidelines/what%20is%20dnd.webp" width="600">
