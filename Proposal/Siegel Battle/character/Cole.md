@@ -53,4 +53,4 @@ Cole
 腰間配帶鐵鎚、螺絲起子、鑽石銼刀，便於修理裝備和整修地形<br>
 
 <br>圖片來源：空之軌跡<br>
-<img src="./Tita_fc_evo.jpg">
+<img src="./Tita_fc_evo.webp">

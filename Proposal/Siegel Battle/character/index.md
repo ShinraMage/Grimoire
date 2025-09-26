@@ -1,14 +1,26 @@
 
 ## 人物設計
 
+<script src="https://cdn.jsdelivr.net/npm/js-yaml@4/dist/js-yaml.min.js"></script>
+<script src="https://posetmage.com/cdn/js/parser/convertYamlToHtml.js"></script>
+<script src="https://posetmage.com/cdn/js/parser/EmbbedHtmlFromYaml.js"></script>
+
+
 ## Claire
-<iframe src="./Claire.html" width="100%" height="1200px" style="background-color: white;"></iframe>
+
+<div yml-path="./Claire.yml" html-path="https://shinra.posetmage.com/GameDesign/Tool/character/basic.html" height="500px">
+    Loading content...
+</div>
 
 ## Medina
-<iframe src="./Medina.html" width="100%" height="1200px" style="background-color: white;"></iframe>
 
-## Sienna
-<iframe src="./Sienna.html" width="100%" height="1200px" style="background-color: white;"></iframe>
+<div yml-path="./Medina.yml" html-path="https://shinra.posetmage.com/GameDesign/Tool/character/basic.html" height="500px">
+    Loading content...
+</div>
 
-## Cole
-<iframe src="./Cole.html" width="100%" height="1200px" style="background-color: white;"></iframe>
+
+## Claire
+
+<div yml-path="./Claire.yml" html-path="https://shinra.posetmage.com/GameDesign/Tool/character/basic.html" height="500px">
+    Loading content...
+</div>
