@@ -27,7 +27,7 @@ Applying the entropy world setting: The concept can be applied in numerous ways 
 ## PosetMage
 here is my markmap
 
-備註：餵給他[發想心智圖](https://shinra.posetmage.com/GameDesign/Proposal/Siegel%20Battle/design/#%E7%99%BC%E6%83%B3)  
+備註：餵給他[發想心智圖](https://shinra.posetmage.com/GameDesign/Grimoire/Siegel%20Battle/design/#%E7%99%BC%E6%83%B3)  
 
 you do brainstorming based on this format, but add more innovation concetps to crate a new game concept.
 don't follow my old design. for example, you metioned puzzles game i think that a good beginning. and you brainstorming a new game

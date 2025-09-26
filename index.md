@@ -4,11 +4,14 @@ layout: base
 
 # Game Design
 
-## [Plan Design Documents](./Proposal/)
-
-## [Competitive Analysis](./Analysis/)
+## [Grimoire](./Grimoire/)
+  * Documents, Plans, Designs
 
 ## [Codex](./Codex/)
   * Novels, Setting book
 
+## [Observer](./Observer/)
+  * Competitive Analysis
+
 ## [Game Design Tools](./Tool/)
+  * Helper Tools
