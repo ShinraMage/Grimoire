@@ -3,12 +3,12 @@
 [spelling process](./chatgpt/chat.html)
 
 Basic world setting: 
-* [Entropy](https://posetmage.com/Novel/Setting/Ch1/Entropy)
-* [Triality](https://posetmage.com/Novel/Setting/Ch3/Triality)
-* [Attribute](https://posetmage.com/Novel/Setting/Ch3/Attribute)
+* [Entropy](https://shinra.posetmage.com/GameDesign/Codex/PosetMage/0101-Entropy)
+* [Triality](https://shinra.posetmage.com/GameDesign/Codex/PosetMage/0305-Triality.html)
+* [Attribute](https://shinra.posetmage.com/GameDesign/Codex/PosetMage/0304-Attribute.html)
 
 ## Grumm
-<img src="../05/First/Grumm.png" height="350">
+<img src="../05/First/Grumm.webp" height="350">
 
 | Triality | Value |
 |-----------|-------|
@@ -43,7 +43,7 @@ Basic world setting:
 
 <table border="1" width="700">
     <tr>
-        <td rowspan="3"><img src="Grumm/Ancestral Guidance.png" alt="Input Image"></td>
+        <td rowspan="3"><img src="Grumm/Ancestral Guidance.webp" alt="Input Image"></td>
         <td>Ancestral Guidance</td>
         <td colspan="5">Reveals hidden traps</td>
     </tr>
@@ -61,7 +61,7 @@ Basic world setting:
 
 <table border="1" width="700">
     <tr>
-        <td rowspan="3"><img src="Grumm/Herbal Healing.png" alt="Input Image"></td>
+        <td rowspan="3"><img src="Grumm/Herbal Healing.webp" alt="Input Image"></td>
         <td>Herbal Healing</td>
         <td colspan="5">Heals 5 HP to all allies</td>
     </tr>
@@ -80,7 +80,7 @@ These narratives are crafted to deepen the player's immersion, portraying Grumm'
 
 <table border="1" width="700">
     <tr>
-        <td rowspan="3"><img src="Grumm/Hunter&apos;s Instinct.png" alt="Input Image"></td>
+        <td rowspan="3"><img src="Grumm/Hunter&apos;s Instinct.webp" alt="Input Image"></td>
         <td>Hunter's Instinct</td>
         <td colspan="5">Increases perception by 10%.</td>
     </tr>
@@ -98,7 +98,7 @@ Nature's Blessing:</td>
 
 <table border="1" width="700">
     <tr>
-        <td rowspan="3"><img src="Grumm/Tribal Leadership.png" alt="Input Image"></td>
+        <td rowspan="3"><img src="Grumm/Tribal Leadership.webp" alt="Input Image"></td>
         <td>Tribal Leadership</td>
         <td colspan="5">Increases team's willpower by 10%.</td>
     </tr>
@@ -116,7 +116,7 @@ Nature's Blessing:</td>
 
 <table border="1" width="700">
     <tr>
-        <td rowspan="3"><img src="Grumm/Wilderness Survival.png" alt="Input Image"></td>
+        <td rowspan="3"><img src="Grumm/Wilderness Survival.webp" alt="Input Image"></td>
         <td>Wilderness Survival</td>
         <td colspan="5">Increases constitution by 10%.</td>
     </tr>
@@ -133,7 +133,7 @@ Nature's Blessing:</td>
 </table>
 
 ## Elysia
-<img src="../05/First/Elysia.png" height="350">
+<img src="../05/First/Elysia.webp" height="350">
 
 | Triality | Value |
 |-----------|-------|
@@ -150,7 +150,7 @@ Nature's Blessing:</td>
 
 <table border="1" width="700">
     <tr>
-        <td rowspan="3"><img src="Elysia/Ancestral Whisper.png" alt="Input Image"></td>
+        <td rowspan="3"><img src="Elysia/Ancestral Whisper.webp" alt="Input Image"></td>
         <td>Ancestral Whisper</td>
         <td colspan="5"> Calls upon ancestral spirits for healing 15.</td>
     </tr>
@@ -167,7 +167,7 @@ Nature's Blessing:</td>
 
 <table border="1" width="700">
     <tr>
-        <td rowspan="3"><img src="Elysia/Aqua Shield.png" alt="Input Image"></td>
+        <td rowspan="3"><img src="Elysia/Aqua Shield.webp" alt="Input Image"></td>
         <td>Aqua Shield</td>
         <td colspan="5">Base Shield Strength: 15</td>
     </tr>
@@ -184,7 +184,7 @@ Nature's Blessing:</td>
 
 <table border="1" width="700">
     <tr>
-        <td rowspan="3"><img src="Elysia/Earthbind.png" alt="Input Image"></td>
+        <td rowspan="3"><img src="Elysia/Earthbind.webp" alt="Input Image"></td>
         <td>Earthbind</td>
         <td colspan="5">Base Snare Duration: 3 seconds</td>
     </tr>
@@ -201,7 +201,7 @@ Nature's Blessing:</td>
 
 <table border="1" width="700">
     <tr>
-        <td rowspan="3"><img src="Elysia/Gale Wings.png" alt="Input Image"></td>
+        <td rowspan="3"><img src="Elysia/Gale Wings.webp" alt="Input Image"></td>
         <td>Gale Wings</td>
         <td colspan="5">Base Speed Boost: +10%</td>
     </tr>
@@ -217,7 +217,7 @@ Nature's Blessing:</td>
 </table>
 <table border="1" width="700">
     <tr>
-        <td rowspan="3"><img src="Elysia/Sacred Veil.png" alt="Input Image"></td>
+        <td rowspan="3"><img src="Elysia/Sacred Veil.webp" alt="Input Image"></td>
         <td>Sacred Veil</td>
         <td colspan="5">Base Damage Mitigation: -10%</td>
     </tr>
@@ -233,7 +233,7 @@ Nature's Blessing:</td>
 </table>
 
 ## Skrik
-<img src="../05/First/Skrik.png" height="350">
+<img src="../05/First/Skrik.webp" height="350">
 
 | Triality | Value |
 |-----------|-------|
@@ -249,7 +249,7 @@ Nature's Blessing:</td>
 ### Skrik's Skillsets:
 <table border="1" width="700">
     <tr>
-        <td rowspan="3"><img src="Skrik/Stealth Mastery.png" alt="Input Image"></td>
+        <td rowspan="3"><img src="Skrik/Stealth Mastery.webp" alt="Input Image"></td>
         <td>Stealth Mastery</td>
         <td colspan="5">Enhanced ability to move unnoticed, hide in shadows, and evade detection.</td>
     </tr>
@@ -266,7 +266,7 @@ Nature's Blessing:</td>
 
 <table border="1" width="700">
     <tr>
-        <td rowspan="3"><img src="Skrik/Lock Manipulation.png" alt="Input Image"></td>
+        <td rowspan="3"><img src="Skrik/Lock Manipulation.webp" alt="Input Image"></td>
         <td>Lock Manipulation</td>
         <td colspan="5">Ability to tackle more complex locks and reduce the time required to pick locks.</td>
     </tr>
@@ -282,7 +282,7 @@ Nature's Blessing:</td>
 </table>
 <table border="1" width="700">
     <tr>
-        <td rowspan="3"><img src="Skrik/Night Vision.png" alt="Input Image"></td>
+        <td rowspan="3"><img src="Skrik/Night Vision.webp" alt="Input Image"></td>
         <td>Night Vision</td>
         <td colspan="5">Improved clarity and range of night vision.</td>
     </tr>
@@ -299,7 +299,7 @@ Nature's Blessing:</td>
 
 <table border="1" width="700">
     <tr>
-        <td rowspan="3"><img src="Skrik/Dagger Proficiency.png" alt="Input Image"></td>
+        <td rowspan="3"><img src="Skrik/Dagger Proficiency.webp" alt="Input Image"></td>
         <td>Dagger Proficiency</td>
         <td colspan="5">Increased damage, accuracy, and critical hit chance.</td>
     </tr>
@@ -316,7 +316,7 @@ Nature's Blessing:</td>
 
 <table border="1" width="700">
     <tr>
-        <td rowspan="3"><img src="Skrik/Shadow Cloak.png" alt="Input Image"></td>
+        <td rowspan="3"><img src="Skrik/Shadow Cloak.webp" alt="Input Image"></td>
         <td>Shadow Cloak</td>
         <td colspan="5">Increased duration and effectiveness in various lighting conditions.</td>
     </tr>

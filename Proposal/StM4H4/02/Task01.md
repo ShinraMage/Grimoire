@@ -1,7 +1,7 @@
 # 遊戲編劇AI神助手02 HW-1
 
 ## PosetMage
-備註：直接餵[設定集CH1-Entropy](https://posetmage.com/Novel/Setting/Ch1/Entropy)
+備註：直接餵[設定集CH1-Entropy](https://shinra.posetmage.com/GameDesign/Codex/PosetMage/0101-Entropy.html)
 
 ## GPT4
 
@@ -10,7 +10,7 @@
 讓我們看看下一篇文章：某商人的第一次占卜。希望能夠以同樣生動有趣的方式繼續談論物理學。
 
 ## PosetMage
-備註：餵了[設定集CH1-Divination](https://posetmage.com/Novel/Setting/Ch1/Divination)前半段
+備註：餵了[設定集CH1-Divination](https://shinra.posetmage.com/GameDesign/Codex/PosetMage/0102-Divination.html)前半段
 (然後補上下面句子)
 
 do you understand all my concepts of my words?  
@@ -27,7 +27,7 @@ Applying the entropy world setting: The concept can be applied in numerous ways 
 ## PosetMage
 here is my markmap
 
-備註：餵給他[發想心智圖](https://posetmage.com/GameDesign/Siegel%20Battle/design/)  
+備註：餵給他[發想心智圖](https://shinra.posetmage.com/GameDesign/Proposal/Siegel%20Battle/design/#%E7%99%BC%E6%83%B3)  
 
 you do brainstorming based on this format, but add more innovation concetps to crate a new game concept.
 don't follow my old design. for example, you metioned puzzles game i think that a good beginning. and you brainstorming a new game
@@ -43,8 +43,3 @@ This design focuses more on puzzle and strategy elements, aiming to provide a ce
 備註：將格式文字轉圖表使用MarkMap輸出html如下
 
 <iframe src="./markmap" width="100%" height="500px"></iframe>
-
-## MarkMap
-參考[MarkMap](https://markmap.js.org/)
-
-我是使用VSCode的插件版本MarkMap 詳細請[參考此](./Others.md)

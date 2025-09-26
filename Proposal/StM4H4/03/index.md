@@ -1,6 +1,6 @@
 # 遊戲編劇AI神助手 HW 03
 
-基本文件：[PosetMage設定集](https://posetmage.com/Novel)
+基本文件：[PosetMage設定集](https://shinra.posetmage.com/GameDesign/Codex/PosetMage/)
 
 ## Environment
 * Stable Diffusion
@@ -31,8 +31,8 @@ lowres, text, error, missing fingers, extra digit, fewer digits, cropped, worst 
 ## Result
 
 ### Final Select
-![](./Select.png)
+![](./Select.webp)
 
 ### candidate
-![](./grid1.png)  
-![](./grid2.png)  
+![](./grid1.webp)  
+![](./grid2.webp)  

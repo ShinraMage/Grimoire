@@ -1,6 +1,3 @@
----
----
-
 # Entropy Chronicles
 
 ## Game Title

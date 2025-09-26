@@ -20,41 +20,41 @@ References:
 Concept: "<img src=\"./first.png\">"
 Importance: "重要人物"
 
-Stage1:
-  History: "父母離異之後被精靈族收養，但被排擠"
-  Personality: "想要討好大家"
-  BigFive: 
-    - "openness: 20%"
-    - "efficient: 20%"
-    - "extraversion: 90%"
-    - "rational: 20%"
-    - "nervous: 20%"
-  Faith: "未來會更好"
-  Regret: "父母離異，想要找到父母"
-  Goal: "想找到父母"
 
-Stage2:
-  History: "離開精靈村莊之後，意外被捲入戰場，被矮人收留並且必須參與掠奪"
-  Personality: "警戒心態"
-  BigFive: 
-    - "openness: 20%"
-    - "efficient: 80%"
-    - "extraversion: 30%"
-    - "rational: 60%"
-    - "nervous: 80%"
-  Faith: "不希望明天到來"
-  Regret: "我不想這麼做，卻必須執行掠奪"
-  Goal: "逃離矮人族"
+Stage1_History: "父母離異之後被精靈族收養，但被排擠"
+Stage1_Personality: "想要討好大家"
+Stage1_BigFive: 
+  - "openness: 20%"
+  - "efficient: 20%"
+  - "extraversion: 90%"
+  - "rational: 20%"
+  - "nervous: 20%"
+Stage1_Faith: "未來會更好"
+Stage1_Regret: "父母離異，想要找到父母"
+Stage1_Goal: "想找到父母"
 
-Stage3:
-  History: "收到魔神復活消息"
-  Personality: "積極拯救這個世界"
-  BigFive: 
+
+Stage2_History: "離開精靈村莊之後，意外被捲入戰場，被矮人收留並且必須參與掠奪"
+Stage2_Personality: "警戒心態"
+Stage2_BigFive: 
+  - "openness: 20%"
+  - "efficient: 80%"
+  - "extraversion: 30%"
+  - "rational: 60%"
+  - "nervous: 80%"
+Stage2_Faith: "不希望明天到來"
+Stage2_Regret: "我不想這麼做，卻必須執行掠奪"
+Stage2_Goal: "逃離矮人族"
+
+
+Stage3_History: "收到魔神復活消息"
+Stage3_Personality: "積極拯救這個世界"
+Stage3_BigFive: 
     - "openness: 20%"
     - "efficient: 80%"
     - "extraversion: 90%"
     - "rational: 50%"
     - "nervous: 20%"
-  Faith: "不同種族可以友好相處"
-  Regret: "太多戰爭，不想再看到戰爭"
-  Goal: "封印魔神"
+Stage3_Faith: "不同種族可以友好相處"
+Stage3_Regret: "太多戰爭，不想再看到戰爭"
+Stage3_Goal: "封印魔神"

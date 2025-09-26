@@ -1,11 +1,20 @@
----
----
+# 人物設計 simple
 
-## 人物設計
-<iframe src="./Grumm.html" width="100%" height="1200px" style="background-color: white;"></iframe>
-<iframe src="./Elysia.html" width="100%" height="1200px" style="background-color: white;"></iframe>
-<iframe src="./Skrik.html" width="100%" height="1200px" style="background-color: white;"></iframe>
+<script src="https://cdn.jsdelivr.net/npm/js-yaml@4/dist/js-yaml.min.js"></script>
+<script src="https://posetmage.com/cdn/js/parser/convertYamlToHtml.js"></script>
+<script src="https://posetmage.com/cdn/js/parser/EmbbedHtmlFromYaml.js"></script>
 
+<div yml-path="./Grumm.yml" html-path="https://shinra.posetmage.com/GameDesign/Tool/character/basic.html" height="700px">
+    Loading content...
+</div>
+
+<div yml-path="./Elysia.yml" html-path="https://shinra.posetmage.com/GameDesign/Tool/character/basic.html" height="700px">
+    Loading content...
+</div>
+
+<div yml-path="./Skrik.yml" html-path="https://shinra.posetmage.com/GameDesign/Tool/character/basic.html" height="700px">
+    Loading content...
+</div>
 
 ## 心得
 GPT給的角色卡，幾乎直接google翻譯就能丟stable diffusion了

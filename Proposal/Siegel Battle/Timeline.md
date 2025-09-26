@@ -2,9 +2,9 @@
 # 時間軸
 
 ### 資料庫：
-* [史學年表](https://posetmage.com/SettingBook/Setting/Ch1/History)
-* [相對地理位置](https://posetmage.com/SettingBook/Setting/Ch1/West-earth)
-* [宇宙結構](https://posetmage.com/SettingBook/Setting/Ch3/Universe)
+* [史學年表](https://shinra.posetmage.com/GameDesign/Codex/PosetMage/0108-History.html)
+* [相對地理位置](https://shinra.posetmage.com/GameDesign/Codex/PosetMage/0109-West-Earth.html)
+* [宇宙結構](https://shinra.posetmage.com/GameDesign/Codex/PosetMage/0106-WorldMap.html)
 
 ### 主線之前：
 神界時代末端出現大量奇特生物，  

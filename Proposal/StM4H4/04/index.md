@@ -1,16 +1,16 @@
 # 遊戲編劇AI神助手 HW 04
 
+<script src="https://cdn.jsdelivr.net/npm/js-yaml@4/dist/js-yaml.min.js"></script>
+<script src="https://posetmage.com/cdn/js/parser/convertYamlToHtml.js"></script>
+<script src="https://posetmage.com/cdn/js/parser/EmbbedHtmlFromYaml.js"></script>
+
+
 
 ## Outcome
-* [Result](./hw4.html)
-  * [原始檔案](./origin)
+<div yml-path="./proposal.yml" html-path="https://shinra.posetmage.com/GameDesign/Tool/proposal/proposal.html" height="500px">
+    Loading content...
+</div>
+
 * [Chat History](./chat.html)
 * [Concept Art 詠唱過程](./Concept%20Art)
-
-
-## Convert md to html Table
-* [script](https://github.com/posetmage/Portfolio/tree/master/Tool/proposal)
-* [Chat History](./chat.html)
-* Test
-  * use AI to write [proposal.md](./fun/proposal)
-  * convet to [table.html](./fun/chatgpt.html)
+* [Convert Tools](https://shinra.posetmage.com/GameDesign/Tool/)
