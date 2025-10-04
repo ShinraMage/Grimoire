@@ -10,11 +10,11 @@
 
 ## 提案
 
-<div yml-path="https://shinra.posetmage.com/GameDesign/Tool/proposal/proposal.yml" html-path="https://shinra.posetmage.com/GameDesign/Tool/proposal/proposal.html" height="500px">
+<div yml-path="https://shinra.posetmage.com/Grimoire/Forging/proposal/proposal.yml" html-path="https://shinra.posetmage.com/Grimoire/Forging/proposal/proposal.html" height="500px">
     Loading content...
 </div>
 
 ## 故事大綱
-<div yml-path="https://shinra.posetmage.com/GameDesign/Tool/outline/outline.yml" html-path="https://shinra.posetmage.com/GameDesign/Tool/outline/outline.html" height="700px">
+<div yml-path="https://shinra.posetmage.com/Grimoire/Forging/outline/outline.yml" html-path="https://shinra.posetmage.com/Grimoire/Forging/outline/outline.html" height="700px">
     Loading content...
 </div>

@@ -8,19 +8,19 @@
 
 ## Claire
 
-<div yml-path="./Claire.yml" html-path="https://shinra.posetmage.com/GameDesign/Tool/character/basic.html" height="500px">
+<div yml-path="./Claire.yml" html-path="https://shinra.posetmage.com/Grimoire/Forging/character/basic.html" height="500px">
     Loading content...
 </div>
 
 ## Medina
 
-<div yml-path="./Medina.yml" html-path="https://shinra.posetmage.com/GameDesign/Tool/character/basic.html" height="500px">
+<div yml-path="./Medina.yml" html-path="https://shinra.posetmage.com/Grimoire/Forging/character/basic.html" height="500px">
     Loading content...
 </div>
 
 
 ## Claire
 
-<div yml-path="./Claire.yml" html-path="https://shinra.posetmage.com/GameDesign/Tool/character/basic.html" height="500px">
+<div yml-path="./Claire.yml" html-path="https://shinra.posetmage.com/Grimoire/Forging/character/basic.html" height="500px">
     Loading content...
 </div>

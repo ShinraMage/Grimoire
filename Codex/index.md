@@ -1,11 +1,5 @@
----
-layout: base
----
 
-# Novels
 
-### [PosetMage](./PosetMage/)
-  * 古老的手抄本
+<meta http-equiv="refresh" content="0; url=./0001-封面" />
 
-### [Scatterbook](./Scatterbook/)
-  * 雜談
+## Waiting for loading......

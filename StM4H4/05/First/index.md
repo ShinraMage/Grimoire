@@ -4,15 +4,15 @@
 <script src="https://posetmage.com/cdn/js/parser/convertYamlToHtml.js"></script>
 <script src="https://posetmage.com/cdn/js/parser/EmbbedHtmlFromYaml.js"></script>
 
-<div yml-path="./Grumm.yml" html-path="https://shinra.posetmage.com/GameDesign/Tool/character/basic.html" height="700px">
+<div yml-path="./Grumm.yml" html-path="https://shinra.posetmage.com/Grimoire/Forging/character/basic.html" height="700px">
     Loading content...
 </div>
 
-<div yml-path="./Elysia.yml" html-path="https://shinra.posetmage.com/GameDesign/Tool/character/basic.html" height="700px">
+<div yml-path="./Elysia.yml" html-path="https://shinra.posetmage.com/Grimoire/Forging/character/basic.html" height="700px">
     Loading content...
 </div>
 
-<div yml-path="./Skrik.yml" html-path="https://shinra.posetmage.com/GameDesign/Tool/character/basic.html" height="700px">
+<div yml-path="./Skrik.yml" html-path="https://shinra.posetmage.com/Grimoire/Forging/character/basic.html" height="700px">
     Loading content...
 </div>
 

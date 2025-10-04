@@ -23,21 +23,18 @@ email: shinra@posetmage.com
 url: https://shinra.posetmage.com # the base hostname & protocol for your site, e.g. http://example.com
 author: ShinraMage
 
-description: GameDesign
-baseurl: /GameDesign
-repository: ShinraMage/GameDesign
+description: Grimoire
+baseurl: /Grimoire
+repository: ShinraMage/Grimoire
 
 defaults:
   -
     scope:
-      path: "Codex"
-    values:
-      layout: "page/novel/reading"
-  -
-    scope:
       path: ""
     values:
-      layout: "page/note/basic"
+      layout: "page/novel/reading"
+
+
 
 
 kramdown:

@@ -7,10 +7,10 @@
 
 
 ## Outcome
-<div yml-path="./proposal.yml" html-path="https://shinra.posetmage.com/GameDesign/Tool/proposal/proposal.html" height="500px">
+<div yml-path="./proposal.yml" html-path="https://shinra.posetmage.com/Grimoire/Forging/proposal/proposal.html" height="500px">
     Loading content...
 </div>
 
 * [Chat History](./chat.html)
 * [Concept Art 詠唱過程](./Concept%20Art)
-* [Convert Tools](https://shinra.posetmage.com/GameDesign/Tool/)
+* [Convert Tools](https://shinra.posetmage.com/Grimoire/Forging/)
