@@ -30,6 +30,11 @@ repository: ShinraMage/Grimoire
 defaults:
   -
     scope:
+      path: "StM4H4"
+    values:
+      layout: "base"
+  -
+    scope:
       path: ""
     values:
       layout: "page/novel/reading"

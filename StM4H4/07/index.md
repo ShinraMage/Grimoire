@@ -3,9 +3,9 @@
 [spelling process](./chatgpt/chat.html)
 
 Basic world setting: 
-* [Entropy](https://shinra.posetmage.com/GameDesign/Codex/PosetMage/0101-Entropy)
-* [Triality](https://shinra.posetmage.com/GameDesign/Codex/PosetMage/0305-Triality.html)
-* [Attribute](https://shinra.posetmage.com/GameDesign/Codex/PosetMage/0304-Attribute.html)
+* [Entropy](https://shinra.posetmage.com/Grimoire/PosetMage/0101-Entropy)
+* [Triality](https://shinra.posetmage.com/Grimoire/PosetMage/0305-Triality.html)
+* [Attribute](https://shinra.posetmage.com/Grimoire/PosetMage/0304-Attribute.html)
 
 ## Grumm
 <img src="../05/First/Grumm.webp" height="350">

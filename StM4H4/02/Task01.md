@@ -1,7 +1,7 @@
 # 遊戲編劇AI神助手02 HW-1
 
 ## PosetMage
-備註：直接餵[設定集CH1-Entropy](https://shinra.posetmage.com/GameDesign/Codex/PosetMage/0101-Entropy.html)
+備註：直接餵[設定集CH1-Entropy](https://shinra.posetmage.com/Grimoire/PosetMage/0101-Entropy.html)
 
 ## GPT4
 
@@ -10,7 +10,7 @@
 讓我們看看下一篇文章：某商人的第一次占卜。希望能夠以同樣生動有趣的方式繼續談論物理學。
 
 ## PosetMage
-備註：餵了[設定集CH1-Divination](https://shinra.posetmage.com/GameDesign/Codex/PosetMage/0102-Divination.html)前半段
+備註：餵了[設定集CH1-Divination](https://shinra.posetmage.com/Grimoire/PosetMage/0102-Divination.html)前半段
 (然後補上下面句子)
 
 do you understand all my concepts of my words?  

@@ -5,15 +5,15 @@
 <script src="https://posetmage.com/cdn/js/parser/EmbbedHtmlFromYaml.js"></script>
 
 
-<div yml-path="../First/Grumm.yml" html-path="https://shinra.posetmage.com/Grimoire/Forging/character/advance.html" height="700px">
+<div yml-path="../Basic/Grumm.yml" html-path="https://shinra.posetmage.com/Grimoire/Forging/character/advance.html" height="700px">
     Loading content...
 </div>
 
-<div yml-path="../First/Elysia.yml" html-path="https://shinra.posetmage.com/Grimoire/Forging/character/advance.html" height="700px">
+<div yml-path="../Basic/Elysia.yml" html-path="https://shinra.posetmage.com/Grimoire/Forging/character/advance.html" height="700px">
     Loading content...
 </div>
 
-<div yml-path="../First/Skrik.yml" html-path="https://shinra.posetmage.com/Grimoire/Forging/character/advance.html" height="700px">
+<div yml-path="../Basic/Skrik.yml" html-path="https://shinra.posetmage.com/Grimoire/Forging/character/advance.html" height="700px">
     Loading content...
 </div>
 

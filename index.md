@@ -16,6 +16,9 @@ layout: base
 * [Mercury](./Mercury/)
   * 音樂音感訓練遊戲企劃書
 
+* [StM4H4](./StM4H4/)
+  * AI輔助遊戲企劃
+
 * [観察者](./Observer/)
   * 競品分析
 
