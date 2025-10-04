@@ -1,5 +1,7 @@
+---
+layout: page/note/directory
+---
 
+# 雜文區
 
-<meta http-equiv="refresh" content="0; url=./0001-封面" />
-
-## Waiting for loading......
+點選右邊開始閱讀....

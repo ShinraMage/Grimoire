@@ -1,9 +1,4 @@
 
-# Siegel Battle
+<meta http-equiv="refresh" content="0; url=./0002-proposal" />
 
-
-### [發想, 提案, 故事大綱](./design/)
-  * [時間軸](./Timeline)
-  * [對話庫](./Dialog.md)
-
-### [人物設計](./character/)
+## Waiting for loading......

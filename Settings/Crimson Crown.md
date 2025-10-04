@@ -1,7 +1,4 @@
 ---
-layout:
-  "page/design/beat-sheet"
-
 Title:
   "The Quest for the Crimson Crown"
 
