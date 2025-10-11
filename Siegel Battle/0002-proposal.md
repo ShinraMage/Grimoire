@@ -4,6 +4,6 @@
 <script src="https://posetmage.com/cdn/js/parser/convertYamlToHtml.js"></script>
 <script src="https://posetmage.com/cdn/js/parser/EmbbedHtmlFromYaml.js"></script>
 
-<div yml-path="https://shinra.posetmage.com/Grimoire/Forging/proposal/proposal.yml" html-path="https://shinra.posetmage.com/Grimoire/Forging/proposal/proposal.html" height="750px">
+<div yml-path="https://shinra.posetmage.com/Grimoire/Forging/Converter/proposal/proposal.yml" html-path="https://shinra.posetmage.com/Grimoire/Forging/Converter/proposal/proposal.html" height="750px">
     Loading content...
 </div>
