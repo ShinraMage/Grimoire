@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<body>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/default.min.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
+  
+  <style>
+    body {
+      background-color: rgb(51, 51, 51);
+      color: #ffffff;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
+    }
+
+    @media (min-width: 1000px) {
+      .page-content {
+        flex-grow: 1;
+        margin-left: 200px;
+        margin-right: 200px;          
+        max-width: calc(100% - 150px);
+      }
+    }
+
+    .page-content {
+      background-color: rgb(51, 51, 51);
+      color: #ffffff;
+      flex: 1;
+    }
+
+    /* Ensure links are visible on dark background */
+    a {
+      color: #66b3ff;
+    }
+
+    a:visited {
+      color: #9d7fd8;
+    }
+
+    a:hover {
+      color: #99ccff;
+    }
+
+    footer {
+      height: 40px;
+      background-color: rgb(34, 34, 34);
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      border-top: 1px solid rgba(255, 255, 255, 0.1);
+    }
+
+    footer img {
+      height: 32px;
+      width: auto;
+      opacity: 0.9;
+      transition: opacity 0.3s;
+    }
+
+    footer img:hover {
+      opacity: 1;
+    }
+  </style>
+
+  <main class="page-content" aria-label="Content">
+    <script type="module" src="https://posetmage.com/wc/slides.es.js"></script>
+    <script type="module" src="https://posetmage.com/wc/doc_ui.es.js"></script>
+    
+    <slides-component></slides-component>
+
+    <sidebar-component>
+      <table-of-slides></table-of-slides>
+    </sidebar-component>
+
+    <heading-id-injector>
+      {{ Target }}
+    </heading-id-injector>
+  </main>
+
+  <footer>
+    <img src="https://cdn.discordapp.com/icons/902819495373062176/86590ab85dc70a47e0e6d40bc4e63504.png" alt="KK Logo">
+    <span style="margin-left: 10px;">KK魔法學院 Discord群 學員工作坊</span>
+  </footer>
+
+</body>
+</html>
