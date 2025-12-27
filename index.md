@@ -10,8 +10,8 @@ layout: base
 * [Siegel Battle](./Siegel Battle/)
   * Siegel Battle企劃書
 
-* [DnD-KK](./DnD-KK/)
-  * KK魔法學院龍與地下城跑團
+* [KKMagicAcademy](./KKMagicAcademy/)
+  * KK魔法學院(龍與地下城跑團)
 
 * [Mercury](./Mercury/)
   * 音樂音感訓練遊戲企劃書
