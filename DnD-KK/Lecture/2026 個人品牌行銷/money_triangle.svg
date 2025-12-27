@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" height="300" version="1.2" width="300">
+<defs/>
+<polygon fill="#ffff00" points="150.0,0.0 150.0,0.0 180.0,60.0 120.0,60.0" stroke="black"/>
+<polygon fill="#bfdf3f" points="120.0,60.0 180.0,60.0 210.0,120.0 90.0,120.0" stroke="black"/>
+<polygon fill="#7fbf7f" points="90.0,120.0 210.0,120.0 240.0,180.0 60.0,180.0" stroke="black"/>
+<polygon fill="#3f9fbf" points="60.0,180.0 240.0,180.0 270.0,240.0 30.0,240.0" stroke="black"/>
+<polygon fill="#0080ff" points="30.0,240.0 270.0,240.0 300.0,300.0 0.0,300.0" stroke="black"/>
+<text fill="black" font-size="15px" text-anchor="start" x="140.0" y="30.0">💎</text>
+<text fill="black" font-size="15px" text-anchor="start" x="125.0" y="90.0">🎲🃏♟️ 商業策略</text>
+<text fill="black" font-size="15px" text-anchor="start" x="125.0" y="150.0">🛠️⚙️🧪 逆向工程</text>
+<text fill="black" font-size="15px" text-anchor="start" x="125.0" y="210.0">🔍🔦🗺️ 勘探挖掘</text>
+<text fill="black" font-size="15px" text-anchor="start" x="125.0" y="270.0">📢🎯📈 市場</text>
+</svg>
