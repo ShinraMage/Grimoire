@@ -12,6 +12,18 @@ title: 語言學習 - 01 Comprehensible Input
 英文課本翻到爛，成績單很漂亮，但你真的能用英文溝通嗎？是時候終結無效學習了
 
 
+## 自我介紹
+
+森羅Mage
+
+* 上課tg: posetmage
+  * 透視13期
+  * 構成11期
+  * 色彩14期
+
+* 歡迎認親
+
+
 ## 語言學習
 
 1. Comprehensible Input
@@ -21,21 +33,6 @@ title: 語言學習 - 01 Comprehensible Input
 3. Comprehensible Input
 
 <iframe width="450" height="255" src="https://www.youtube.com/embed/NiTsduRreug" title=" Stephen Krashen on Language Acquisition " frameborder="0" ></iframe>
-
-
-## 自我介紹
-
-森羅Mage
-
-* tg id: posetmage
-  * 透視13期
-  * 構成11期
-  * 色彩14期
-  * 歡迎認親
-
-* 興趣:
-  * 遊戲設計
-  * ACGN
 
 
 ## 引用資料

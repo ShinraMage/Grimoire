@@ -4,6 +4,8 @@ title: 語言學習 - 03 心態
 
 ## 桶底脫
 
+<img src="./桶底脫.webp" width="600" >
+
 ## 理解自己
 
 <img src="./Temet Nosce.webp">

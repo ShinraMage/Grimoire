@@ -15,8 +15,9 @@ title: 語言學習 - 02 Procedural knowledge
 ## Don't Translate
 
 * 不要做翻譯
-  * 🍎 -> 蘋果 -> Apple (X)
-  * 🍎(Apple) (O)
+  * (O) 🍎(Apple) 
+  * (X) 🍎 -> 蘋果 -> Apple
+
 
 * verständlicher Sprachinput
   * <img src="./verständlicher Sprachinput.webp">
