@@ -10,10 +10,37 @@ title: 語言學習 - 03 心態
 
 <img src="./Temet Nosce.webp">
 
-* 吸收資訊的器官
 * 每個人記憶力不同
 * [別被騙了！語言天才其實不存在](https://www.youtube.com/watch?v=lP7-RtU6j0Q)
 * [EP87｜李承宗：「音樂是人類的本能！」腦神經科學家揭密，我們過去的音樂教育都錯了 - 張修修的不正常人類研究所 Abnormal Human Research Center](https://www.youtube.com/watch?v=fyKju1yIxnk)
+
+## 你的大腦喜歡什麼？(VARK模型) 感官偏好
+
+* 每個人接收資訊的優勢管道不同
+* **Visual (視覺型)**：喜歡圖像、圖表、影片字幕
+* **Auditory (聽覺型)**：喜歡廣播、對話、音樂、語調變化
+* **Read/Write (讀寫型)**：喜歡文字描述、小說、筆記
+* **Kinesthetic (動覺/操作型)**：喜歡跟讀、手寫、邊動作邊說、實境模擬
+
+* 聽覺型 → 多聽影片、Podcast、朗讀
+* 視覺型 → 使用字幕、圖像、漫畫、動畫
+* 操作型 → 角色扮演、口說練習、寫日記
+* 核心概念：讓輸入變得「可理解」並符合自己的偏好
+
+* 聽覺型 → 用聽覺記憶建立自動反應
+* 視覺型 → 用文字或圖片建立語言模式
+* 操作型 → 用「做」的方式建立肌肉記憶與語感
+* 目標：從 Declarative → Procedural，做到「自動化」
+
+## 身份認同的轉變 (Identity Shift)
+
+* 《原子習慣》：目標不是讀一本書，而是成為讀書的人
+* **目標不是「學英文」，而是成為「使用英文的人」**
+* 不要說 "I am learning English"
+* 要說 "I am an English speaker" (即使很爛)
+* 把手機介面、遊戲語言、YouTube 地區改成目標語言
+* **Fake it till you make it.**
+
 
 ## 狀態玄學
 * 男生也有月經

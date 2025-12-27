@@ -33,6 +33,7 @@ title: 語言學習 - mindmap
   * 桶底脫
     * Temet Nosce <img src="./Temet Nosce.webp" width="300">
       * 每個人特質不同
+        * VARK模型
         * 表徵遺傳學
         * 努力是基因的一部分
       * 學語言需要打開聽力

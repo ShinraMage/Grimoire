@@ -2,6 +2,23 @@
 title: 語言學習 - 02 Procedural knowledge
 ---
 
+
+## 沉默期 (The Silent Period)
+
+* **嬰兒不會一出生就說話**
+* 在能夠「輸出」之前，大腦需要累積足夠的聽力數據庫
+* 不要強迫自己過早開口 (避免挫折感 & 避免固化錯誤發音)
+* 聽不懂 = 說不出
+* **這不是偷懶，這是必要的程序性知識累積**
+
+## 耳朵與嘴巴的物理連接
+
+* **Shadowing (跟讀法)**
+  * 不是為了背誦，是為了訓練口腔肌肉
+  * 模仿語調、停頓、情緒 (Copy the emotion, not just words)
+* **Echo Method (回音法)**
+  * 聽 -> 在腦中回想聲音 (Echo) -> 模仿說出
+
 ## Procedural knowledge
 
 * Declarative knowledge vs Procedural knowledge
@@ -11,6 +28,7 @@ title: 語言學習 - 02 Procedural knowledge
 <img src="https://s3-us-west-2.amazonaws.com/courses-images/wp-content/uploads/sites/3347/2019/07/07143247/Picture19.png">
 
 圖片來源: https://courses.lumenlearning.com/suny-oneonta-education106/chapter/5-4-educational-psychology/
+
 
 ## Don't Translate
 
