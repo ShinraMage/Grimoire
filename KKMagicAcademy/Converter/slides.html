@@ -27,6 +27,7 @@
       background-color: rgb(51, 51, 51);
       color: #ffffff;
       flex: 1;
+      padding-bottom: 60px; /* Reserve space for overlay footer */
     }
 
     /* Ensure links are visible on dark background */
@@ -42,23 +43,34 @@
       color: #99ccff;
     }
 
+    /* Original footer block to reserve space */
     footer {
+      height: 40px; /* same as padding-bottom */
+    }
+
+    /* Floating overlay footer */
+    .footer-overlay {
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      width: 100%;
       height: 40px;
       background-color: rgb(34, 34, 34);
       display: flex;
       justify-content: center;
       align-items: center;
       border-top: 1px solid rgba(255, 255, 255, 0.1);
+      z-index: 1000; /* Make sure it's above other content */
     }
 
-    footer img {
+    .footer-overlay img {
       height: 32px;
       width: auto;
       opacity: 0.9;
       transition: opacity 0.3s;
     }
 
-    footer img:hover {
+    .footer-overlay img:hover {
       opacity: 1;
     }
   </style>
@@ -66,7 +78,7 @@
   <main class="page-content" aria-label="Content">
     <script type="module" src="https://posetmage.com/wc/slides.es.js"></script>
     <script type="module" src="https://posetmage.com/wc/doc_ui.es.js"></script>
-    
+
     <slides-component></slides-component>
 
     <sidebar-component>
@@ -78,10 +90,14 @@
     </heading-id-injector>
   </main>
 
-  <footer>
+  <!-- reserved block footer -->
+  <footer></footer>
+
+  <!-- overlay footer -->
+  <div class="footer-overlay">
     <img src="https://cdn.discordapp.com/icons/902819495373062176/86590ab85dc70a47e0e6d40bc4e63504.png" alt="KK Logo">
     <span style="margin-left: 10px;">KK魔法學院 Discord群 學員工作坊</span>
-  </footer>
+  </div>
 
 </body>
 </html>

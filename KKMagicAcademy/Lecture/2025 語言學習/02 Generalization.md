@@ -38,7 +38,7 @@ title: 語言學習 - 02 Procedural knowledge
 
 
 * verständlicher Sprachinput
-  * <img src="./verständlicher Sprachinput.webp">
+  * <img src="./verständlicher Sprachinput.webp" width="450">
   * <iframe width="450" height="255" src="https://www.youtube.com/embed/rw-DW_YlfoI" title=" If You Are A Beginner Watch This NOW! Easy Spanish! " frameborder="0" ></iframe>
 
 ## 知行合一
@@ -84,15 +84,18 @@ https://en.wikipedia.org/wiki/Fossilization_(linguistics)
 
 ## My Example
 
-<img src="./着せ恋-comic.webp">
-<img src="./着せ恋-anime.webp">
-
-
-
+<img src="./着せ恋-comic.webp" width="500">
+<img src="./着せ恋-anime.webp" width="500">
 
 ## My Examples
 
-<img src="./font1.webp"><img src="./font2.webp"><img src="./font3.webp"><img src="./font4.webp"><img src="./font5.webp"><img src="./font6.webp"><img src="./font7.webp">
+<img src="./font1.webp" width="100"><br>
+<img src="./font2.webp" width="100"><br>
+<img src="./font3.webp" width="100"><br>
+<img src="./font4.webp" width="100"><br>
+<img src="./font5.webp" width="100"><br>
+<img src="./font6.webp" width="100"><br>
+<img src="./font7.webp" width="100"><br>
 
 ## Homework
 
