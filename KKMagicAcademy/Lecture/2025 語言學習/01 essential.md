@@ -1,5 +1,6 @@
 ---
 title: 語言學習 - 01 Comprehensible Input
+layout: "page/note/slides"
 ---
 
 

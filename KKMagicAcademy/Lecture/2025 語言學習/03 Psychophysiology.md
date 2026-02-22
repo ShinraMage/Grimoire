@@ -1,5 +1,6 @@
 ---
 title: 語言學習 - 03 心態
+layout: "page/note/slides"
 ---
 
 ## 桶底脫

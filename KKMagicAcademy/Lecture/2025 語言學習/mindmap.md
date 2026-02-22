@@ -1,6 +1,6 @@
 ---
-layout: page/note/markmap
 title: 語言學習 - mindmap
+layout: page/note/markmap
 ---
 
 # 語言學習

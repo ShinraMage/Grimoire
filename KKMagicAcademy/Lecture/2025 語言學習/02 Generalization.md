@@ -1,5 +1,6 @@
 ---
 title: 語言學習 - 02 Procedural knowledge
+layout: "page/note/slides"
 ---
 
 
