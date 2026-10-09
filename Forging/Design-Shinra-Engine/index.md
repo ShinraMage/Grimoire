@@ -135,7 +135,7 @@ gametok終於開始嘗試
 
 遇到問題
 
-## 嘗試2-5:
+## 嘗試2-5 MCDV:
 
 rust ABI not stable
 
@@ -148,3 +148,5 @@ hecs not friendly to wasm
 * game.wasm
 * data.wasm
 * render.wasm
+
+![MCDV：由 contract.wit 固定組件契約，並讓可替換的 wasm 組件構成管線](mcdv-pipeline.svg)
