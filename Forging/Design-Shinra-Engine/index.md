@@ -77,7 +77,7 @@ AI會寫垃圾
 設計出 "限制爆炸範圍"
 
 
-## 嘗試1: 統一後端
+## 實驗1: 統一後端
 
 概念：激進的GraphQL
 
@@ -91,10 +91,13 @@ AI會寫垃圾
 
 不只有我想到這solution:
 
-開源shopfity後端
+開源系統「Medusa」
+這是號稱開源的shopify，它採用的是Headless Commerce，也就是無頭式電商。
 
+意思是他的前台跟後台是分開的，你的前台可以是html也可以是自己蓋的任何系統，後台提供api給你串接傳遞訂單數據。
+前台可以非常自由的設計，可以是官網、可以是一頁式購物，也可以是任何天馬行空的做法，最後只要傳遞對的資料給後台就可以成立訂單。
 
-## 嘗試2: game engine:
+## 實驗2: game engine:
 
 我要能hot replacement
 
@@ -103,25 +106,45 @@ gametok終於開始嘗試
 
 ## 嘗試2-1: 自製DSL
 
+
 ## 嘗試2-2: SE in vsc
+
+<video controls preload="metadata" style="max-width: 100%;">
+  <source src="sh-vsc.mp4" type="video/mp4">
+  您的瀏覽器不支援內嵌影片播放。
+</video>
+
+遇到問題:
+* 開發困難 進度遲緩
+
 
 ## 嘗試2-3: SE in tui
 
+已經有雛形
 
-## 嘗試2-4:
+
+## 嘗試2-4 重構:
 
 設計成MVC-like
 
-bundle.so(data.rs, buffer.rs)
-game.so(control)
-ecs.so(data pipeline)
-render.so(render pipeline)
-asset.so(model meterial)
+* bundle.so(data.rs, buffer.rs)
+* game.so(control)
+* ecs.so(data pipeline)
+* render.so(render pipeline)
+* asset.so(model meterial)
 
+遇到問題
 
 ## 嘗試2-5:
 
-wgpu rust ABI not stable
+rust ABI not stable
 
-wasm cannot gpu directly
+hecs not friendly to wasm
 
+最終以wasm作為基礎 做了 MCDV
+
+* contract.wit
+* asset.wasm
+* game.wasm
+* data.wasm
+* render.wasm
