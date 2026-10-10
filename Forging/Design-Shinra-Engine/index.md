@@ -78,7 +78,11 @@ AI會寫垃圾
 
 pg做得比mongoDB好： 
 
-<div class="embed_youtube" yt-title=" 为什么关系数据库的挑战者都没有好下场【让编程再次伟大#25】 " yt-url="IUUpxfa1SSw" yt-width="700">Loading content...</div>
+<div class="embed_youtube" yt-title=" 为什么关系数据库的挑战者都没有好下场【让编程再次伟大#25】 " yt-url="IUUpxfa1SSw" yt-width="700">
+  <p>Loading content…</p>
+</div>
+
+
 
 
 ## 嘗試1: 成果
