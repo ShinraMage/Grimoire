@@ -60,57 +60,23 @@ AI會寫垃圾
 
 產出：LC(Lattice-Cast)
 
-原理：pg GIN idx on jsonb with RLS
-
-| workspace_id | table_id | row | jsonb |
-| --- | --- | --- | --- |
-| 1 | 1 | 1 | `{"type":"user","name":"Alice","roles":["admin"]}` |
-| 1 | 1 | 2 | `{"type":"order","id":101,"status":"paid"}` |
-| 1 | 1 | 3 | `{"type":"product","sku":"KB01","tags":["usb","keyboard"]}` |
-| 1 | 1 | 4 | `{"type":"log","level":"error","service":"api"}` |
-| 1 | 3 | 1 | `{"type":"payment","amount":500,"status":"failed"}` |
-| 1 | 3 | 2 | `{"type":"sensor","temp":27.4,"room":"A7"}` |
-| 2 | 4 | 1 | `{"name":"Alice","roles":["admin"]}` |
-| 2 | 4 | 2 | `{"order_id":101,"status":"paid"}` |
-| 2 | 5 | 1 | `{"sku":"KB01","price":999}` |
-| 2 | 6 | 1 | `{"level":"error","service":"api"}` |
-| 2 | 7 | 1 | `{"device":"T01","temp":27.4}` |
-
-pg做得比mongoDB好： 
-
-<div class="embed_youtube" yt-title=" 为什么关系数据库的挑战者都没有好下场【让编程再次伟大#25】 " yt-url="IUUpxfa1SSw" yt-width="700">
-  <p>Loading content…</p>
-</div>
-
-
-
-
-## 嘗試1: 成果
-
-好處：AI可以隨意揮灑前端
-
-不只有我想到這solution:
-
-開源系統「Medusa」
-這是號稱開源的shopify，它採用的是Headless Commerce，也就是無頭式電商。
-
-意思是他的前台跟後台是分開的，你的前台可以是html也可以是自己蓋的任何系統，後台提供api給你串接傳遞訂單數據。
-前台可以非常自由的設計，可以是官網、可以是一頁式購物，也可以是任何天馬行空的做法，最後只要傳遞對的資料給後台就可以成立訂單。
-
-## 結論1: 第一性原理
-
-LC是基於以下第一性原理的產物
+### 基於以下第一性原理的產物
 * AI會寫垃圾，所以需要限制爆炸半徑
 * 任何想法重點在於實驗驗證速度，LC是快速迭代的方法論
 * 客戶無法 Crystallize Domain Know-how，所以需要FDE
 
-## LC湧現
-LC可以做不同的前端app統一後台 再也不用寫BE
+### LC湧現: 
+LC可以做不同的前端app統一後台 再也不用寫BE(自帶oauth2)
 * 爬蟲後台，ex: 591租屋爬蟲用的閱覽器
 * AHLC(Agentic-Hive+Lattice-Cast)，可以讓不同AI協作的框架 ex: codex as Queen,  hermes+deepseek as Bee
 * 日歷復盤系統
 * SEO文章生成器
 * ....
+
+
+## 實驗1: 概念
+
+![](medusa.webp)
 
 ## 實驗2: game engine:
 
@@ -135,7 +101,7 @@ gametok終於開始嘗試
 
 ## 嘗試2-3: SE in tui
 
-已經有雛形
+![](se-tui.webp)
 
 
 ## 嘗試2-4 重構:
@@ -165,3 +131,31 @@ hecs not friendly to wasm
 * render.wasm
 
 ![MCDV：由 contract.wit 固定組件契約，並讓可替換的 wasm 組件構成管線](mcdv-pipeline.svg)
+
+
+## End
+
+
+## Appendix: LC
+
+原理：pg GIN idx on jsonb with RLS
+
+| workspace_id | table_id | row | jsonb |
+| --- | --- | --- | --- |
+| 1 | 1 | 1 | `{"type":"user","name":"Alice","roles":["admin"]}` |
+| 1 | 1 | 2 | `{"type":"order","id":101,"status":"paid"}` |
+| 1 | 1 | 3 | `{"type":"product","sku":"KB01","tags":["usb","keyboard"]}` |
+| 1 | 1 | 4 | `{"type":"log","level":"error","service":"api"}` |
+| 1 | 3 | 1 | `{"type":"payment","amount":500,"status":"failed"}` |
+| 1 | 3 | 2 | `{"type":"sensor","temp":27.4,"room":"A7"}` |
+| 2 | 4 | 1 | `{"name":"Alice","roles":["admin"]}` |
+| 2 | 4 | 2 | `{"order_id":101,"status":"paid"}` |
+| 2 | 5 | 1 | `{"sku":"KB01","price":999}` |
+| 2 | 6 | 1 | `{"level":"error","service":"api"}` |
+| 2 | 7 | 1 | `{"device":"T01","temp":27.4}` |
+
+pg做得比mongoDB好： 
+
+<div class="embed_youtube" yt-title=" 为什么关系数据库的挑战者都没有好下场【让编程再次伟大#25】 " yt-url="IUUpxfa1SSw" yt-width="700">
+  <p>Loading content…</p>
+</div>
