@@ -87,6 +87,45 @@ gametok終於開始嘗試
 
 ## 嘗試2-1: 自製DSL
 
+https://github.com/homun-lang/homun 
+
+```
+// Quicksort — recursion + pipe
+quicksort := (arr) -> {
+  if (len(arr) <= 1) { => arr }
+  pivot := arr[0]
+  rest  := arr[1:]
+  left  := rest | filter((x) -> { x <= pivot })
+  right := rest | filter((x) -> { x > pivot })
+  quicksort(left) + @[pivot] + quicksort(right)
+}
+
+// DFS — recursive
+dfs := (graph, node, visited) -> {
+  if (node in visited) { => visited }
+  visited ::= visited + @[node]
+  for neighbor in graph[node] {
+    visited ::= dfs(graph, neighbor, visited)
+  }
+  visited
+}
+
+
+// Pattern Match
+fizz_buzz := (n: int) -> @[str] {
+  result ::= @[]
+  for i in range(1, n+1) {
+    value := match (i % 3, i % 5) {
+      (0, 0) -> "FizzBuzz"
+      (0, _) -> "Fizz"
+      (_, 0) -> "Buzz"
+      _         -> str(i)
+    }
+    result ::= result + @[value]
+  }
+  result
+}
+```
 
 ## 嘗試2-2: SE in vsc
 
@@ -115,25 +154,19 @@ gametok終於開始嘗試
 * asset.so(model meterial)
 
 遇到問題
+* rust ABI not stable
+* hecs not friendly to my design
 
 ## 嘗試2-5 MCDV:
 
-rust ABI not stable
-
-hecs not friendly to wasm
-
 最終以wasm作為基礎 做了 MCDV
-
-* contract.wit
-* asset.wasm
-* game.wasm
-* data.wasm
-* render.wasm
 
 ![MCDV：由 contract.wit 固定組件契約，並讓可替換的 wasm 組件構成管線](mcdv-pipeline.svg)
 
 
 ## End
+
+Thanks for Listening
 
 
 ## Appendix: LC

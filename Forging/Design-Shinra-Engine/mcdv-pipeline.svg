@@ -45,14 +45,14 @@
     <text x="180" y="494" text-anchor="middle" class="tag">↻ REPLACEABLE</text>
 
     <rect x="340" y="382" width="220" height="142" rx="14" class="node"/>
-    <text x="450" y="420" text-anchor="middle" class="label">data.wasm</text>
-    <text x="450" y="450" text-anchor="middle" class="small">state → data flow</text>
+    <text x="450" y="420" text-anchor="middle" class="label">game.wasm</text>
+    <text x="450" y="450" text-anchor="middle" class="small">logic → commands</text>
     <rect x="382" y="475" width="136" height="27" rx="13" fill="#28566a"/>
     <text x="450" y="494" text-anchor="middle" class="tag">↻ REPLACEABLE</text>
 
     <rect x="610" y="382" width="220" height="142" rx="14" class="node"/>
-    <text x="720" y="420" text-anchor="middle" class="label">game.wasm</text>
-    <text x="720" y="450" text-anchor="middle" class="small">logic → commands</text>
+    <text x="720" y="420" text-anchor="middle" class="label">data.wasm</text>
+    <text x="720" y="450" text-anchor="middle" class="small">state → data flow</text>
     <rect x="652" y="475" width="136" height="27" rx="13" fill="#28566a"/>
     <text x="720" y="494" text-anchor="middle" class="tag">↻ REPLACEABLE</text>
 
