@@ -20,7 +20,7 @@ title: 設計Shinra-Engine心路歷程
 
 ## Theory3: 軟體將成為下一個流量入口
 
-![](Theory2.webp)
+![](Theory3.webp)
 
 ## 結論
 
@@ -28,7 +28,8 @@ title: 設計Shinra-Engine心路歷程
 
 創造一個工廠系統，無限消耗token，生成軟體的人 是未來的資產持有者
 
-我的目標：製作AI專用的生成遊戲系統 -> TUI Game Engine 讓AI可以自迭代
+我的目標： gametok 一個往右滑換小遊戲的平台 -> 即無限垃圾廣告小遊戲平台
+
 
 ## 限制
 
@@ -121,13 +122,16 @@ fizz_buzz := (n: int) -> @[str] {
 
 ## 嘗試2-2: SE in vsc
 
-<video controls autoplay loop muted playsinline preload="auto" style="max-width: 100%;">
+<video controls autoplay loop muted playsinline preload="auto" style="max-width: 80%;">
   <source src="sh-vsc.mp4" type="video/mp4">
   您的瀏覽器不支援內嵌影片播放。
 </video>
 
 遇到問題:
 * 開發困難 進度遲緩
+
+目標解方：
+* 製作AI專用的生成遊戲系統 -> TUI Game Engine 讓AI可以自迭代
 
 
 ## 嘗試2-3: SE in tui
