@@ -5,7 +5,7 @@ title: 設計Shinra-Engine心路歷程
 
 ## 設計Shinra-Engine心路歷程
 
-<video controls preload="metadata" style="max-width: 100%;">
+<video controls autoplay loop muted playsinline preload="auto" style="max-width: 100%;">
   <source src="sh-play.mp4" type="video/mp4">
   您的瀏覽器不支援內嵌影片播放。
 </video>
@@ -121,7 +121,7 @@ fizz_buzz := (n: int) -> @[str] {
 
 ## 嘗試2-2: SE in vsc
 
-<video controls preload="metadata" style="max-width: 100%;">
+<video controls autoplay loop muted playsinline preload="auto" style="max-width: 100%;">
   <source src="sh-vsc.mp4" type="video/mp4">
   您的瀏覽器不支援內嵌影片播放。
 </video>
