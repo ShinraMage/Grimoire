@@ -5,34 +5,22 @@ title: 設計Shinra-Engine心路歷程
 
 ## 設計Shinra-Engine心路歷程
 
+<video controls preload="metadata" style="max-width: 100%;">
+  <source src="sh-play.mp4" type="video/mp4">
+  您的瀏覽器不支援內嵌影片播放。
+</video>
 
 ## Theory1: 真正的資產是「產生結果的能力」
 
-一般人擁有結果（房子、車子、包包）。
-
-有錢人擁有系統（工廠、廠房、公司）。
-
-數位時代的工廠 = 能大量生成內容的系統。
+![](Theory1.webp)
 
 ## Theory2:真正的生產力來自消耗大量算力
 
-中世紀：鋁比黃金貴，因為提煉難。
-
-現代：鋁箔紙隨處可見，因為電解法。
-
-AI 時代：寫程式變便宜，能消耗更多 Token 的人 = 更高階生產者。
-
-卡達肖夫指數
+![](Theory2.webp)
 
 ## Theory3: 軟體將成為下一個流量入口
 
-知識：教會 → 印刷 → 網路
-
-影片：電影院 → DVD → YouTube → AI 生成
-
-文章：部落格 → YouTuber → 軟體
-
-當軟體製作成本趨近於零，軟體本身就是流量入口。
+![](Theory2.webp)
 
 ## 結論
 
